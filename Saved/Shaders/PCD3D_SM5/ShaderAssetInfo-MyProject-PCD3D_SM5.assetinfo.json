@@ -267,12 +267,6 @@
 			]
 		},
 		{
-			"ShaderMapHash": "8D5C9971654E22D92212E61C55D92EEA6D6F673A",
-			"Assets": [
-				"/Engine/BasicShapes/BasicShapeMaterial"
-			]
-		},
-		{
 			"ShaderMapHash": "DA5D093556F7ECC4E60363C4C4C2DC3DAFA848CA",
 			"Assets": [
 				"/Engine/Tutorial/SubEditors/TutorialAssets/M_smoke_subUV_blackbody"
@@ -306,6 +300,12 @@
 			"ShaderMapHash": "38FB5BEC9C39CC1F6AD05D2912694DA4FC9ADF69",
 			"Assets": [
 				"/Game/Character/MainChar/Mesh/fesadam/cape"
+			]
+		},
+		{
+			"ShaderMapHash": "8D5C9971654E22D92212E61C55D92EEA6D6F673A",
+			"Assets": [
+				"/Engine/BasicShapes/BasicShapeMaterial"
 			]
 		},
 		{
