@@ -267,12 +267,6 @@
 			]
 		},
 		{
-			"ShaderMapHash": "2733C6AE50BE8A963A02E3447FE496CEC1CACFE1",
-			"Assets": [
-				"/Game/Character/MainChar/Mesh/silah/Bronze"
-			]
-		},
-		{
 			"ShaderMapHash": "8D5C9971654E22D92212E61C55D92EEA6D6F673A",
 			"Assets": [
 				"/Engine/BasicShapes/BasicShapeMaterial"
@@ -282,6 +276,12 @@
 			"ShaderMapHash": "DA5D093556F7ECC4E60363C4C4C2DC3DAFA848CA",
 			"Assets": [
 				"/Engine/Tutorial/SubEditors/TutorialAssets/M_smoke_subUV_blackbody"
+			]
+		},
+		{
+			"ShaderMapHash": "2733C6AE50BE8A963A02E3447FE496CEC1CACFE1",
+			"Assets": [
+				"/Game/Character/MainChar/Mesh/silah/Bronze"
 			]
 		},
 		{
@@ -333,6 +333,12 @@
 			]
 		},
 		{
+			"ShaderMapHash": "324C2B4A992D666E3A11427D6EB4D02BE8C5C2B8",
+			"Assets": [
+				"/Game/SideScrollerBP/BuildFiles/Materials/NewMaterial"
+			]
+		},
+		{
 			"ShaderMapHash": "36B9EF5886629F900B7A084594A267B53631216F",
 			"Assets": [
 				"/Game/SideScrollerBP/BuildFiles/Materials/firstaid"
@@ -342,12 +348,6 @@
 			"ShaderMapHash": "11D16366A44FB60D2DBA00453A20EE4B115F6584",
 			"Assets": [
 				"/Game/SideScrollerBP/BuildFiles/Materials/Glass"
-			]
-		},
-		{
-			"ShaderMapHash": "324C2B4A992D666E3A11427D6EB4D02BE8C5C2B8",
-			"Assets": [
-				"/Game/SideScrollerBP/BuildFiles/Materials/NewMaterial"
 			]
 		},
 		{
