@@ -267,24 +267,6 @@
 			]
 		},
 		{
-			"ShaderMapHash": "8D5C9971654E22D92212E61C55D92EEA6D6F673A",
-			"Assets": [
-				"/Engine/BasicShapes/BasicShapeMaterial"
-			]
-		},
-		{
-			"ShaderMapHash": "DA5D093556F7ECC4E60363C4C4C2DC3DAFA848CA",
-			"Assets": [
-				"/Engine/Tutorial/SubEditors/TutorialAssets/M_smoke_subUV_blackbody"
-			]
-		},
-		{
-			"ShaderMapHash": "2733C6AE50BE8A963A02E3447FE496CEC1CACFE1",
-			"Assets": [
-				"/Game/Character/MainChar/Mesh/silah/Bronze"
-			]
-		},
-		{
 			"ShaderMapHash": "AEF321E736E99FCB951708755F1DCD770BED52D9",
 			"Assets": [
 				"/Game/Character/MainChar/Mesh/silah/silahmat"
@@ -309,6 +291,24 @@
 			]
 		},
 		{
+			"ShaderMapHash": "8D5C9971654E22D92212E61C55D92EEA6D6F673A",
+			"Assets": [
+				"/Engine/BasicShapes/BasicShapeMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "DA5D093556F7ECC4E60363C4C4C2DC3DAFA848CA",
+			"Assets": [
+				"/Engine/Tutorial/SubEditors/TutorialAssets/M_smoke_subUV_blackbody"
+			]
+		},
+		{
+			"ShaderMapHash": "2733C6AE50BE8A963A02E3447FE496CEC1CACFE1",
+			"Assets": [
+				"/Game/Character/MainChar/Mesh/silah/Bronze"
+			]
+		},
+		{
 			"ShaderMapHash": "6D966E5C41CF95F7429D1D0F70508D19DCFA4D60",
 			"Assets": [
 				"/Engine/EditorMaterials/PreviewShadowIndicatorMaterial"
@@ -321,33 +321,15 @@
 			]
 		},
 		{
-			"ShaderMapHash": "A293D58913DE764317369DF5951D2FB7910EE89E",
-			"Assets": [
-				"/Game/SideScrollerBP/BuildFiles/Materials/mainmat"
-			]
-		},
-		{
-			"ShaderMapHash": "11D16366A44FB60D2DBA00453A20EE4B115F6584",
-			"Assets": [
-				"/Game/SideScrollerBP/BuildFiles/Materials/Glass"
-			]
-		},
-		{
 			"ShaderMapHash": "324C2B4A992D666E3A11427D6EB4D02BE8C5C2B8",
 			"Assets": [
 				"/Game/SideScrollerBP/BuildFiles/Materials/NewMaterial"
 			]
 		},
 		{
-			"ShaderMapHash": "9E8D820A58C1B8FC2970D55183BE840C66006DFF",
+			"ShaderMapHash": "11D16366A44FB60D2DBA00453A20EE4B115F6584",
 			"Assets": [
-				"/Game/SideScrollerBP/Blueprints/Enemy/omurcekmat"
-			]
-		},
-		{
-			"ShaderMapHash": "36B9EF5886629F900B7A084594A267B53631216F",
-			"Assets": [
-				"/Game/SideScrollerBP/BuildFiles/Materials/firstaid"
+				"/Game/SideScrollerBP/BuildFiles/Materials/Glass"
 			]
 		},
 		{
@@ -360,6 +342,18 @@
 			"ShaderMapHash": "E6CA8E8EEFDAA90AD8AB7929FE64C5518D5E2E39",
 			"Assets": [
 				"/Game/SideScrollerBP/BuildFiles/Materials/labmat"
+			]
+		},
+		{
+			"ShaderMapHash": "9E8D820A58C1B8FC2970D55183BE840C66006DFF",
+			"Assets": [
+				"/Game/SideScrollerBP/Blueprints/Enemy/omurcekmat"
+			]
+		},
+		{
+			"ShaderMapHash": "36B9EF5886629F900B7A084594A267B53631216F",
+			"Assets": [
+				"/Game/SideScrollerBP/BuildFiles/Materials/firstaid"
 			]
 		},
 		{
@@ -384,6 +378,18 @@
 			"ShaderMapHash": "B47CABED7A4537AAD9D04F5ACC70AD3D4BE7AE99",
 			"Assets": [
 				"/Game/Character/MainChar/Materials/M_UE4Man_ChestLogo"
+			]
+		},
+		{
+			"ShaderMapHash": "385857B0DE8EAEF7463903C747DDA711267BEC34",
+			"Assets": [
+				"/Game/SideScrollerBP/BuildFiles/Materials/mainmat"
+			]
+		},
+		{
+			"ShaderMapHash": "B410A1776AA5E71AB3CA0B07F1CC4CD74F857DD8",
+			"Assets": [
+				"/Game/SideScrollerBP/spaceship/testuvmaterial"
 			]
 		}
 	]
