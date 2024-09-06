@@ -277,7 +277,6 @@ Engine:DevOptions.Shaders:bLogJobCompletionTimes:0=False
 Engine:DevOptions.Shaders:ProcessGameThreadTargetTime:0=.01
 Engine:DevOptions.Shaders:WorkerTimeToLive:0=20
 Engine:DevOptions.Shaders:BuildWorkerTimeToLive:0=1200
-Engine:DevOptions.Shaders:WorkerProcessPriority:0=-1
 Engine:DevOptions.Shaders:bForceUseSCWMemoryPressureLimits:0=False
 Engine:LogFiles:PurgeLogsDays:0=5
 Engine:LogFiles:MaxLogFilesOnDisk:0=10
@@ -355,6 +354,7 @@ Engine:/Script/NavigationSystem.RecastNavMesh:AgentMaxSlope:0=44.f
 Engine:/Script/NavigationSystem.RecastNavMesh:MinRegionArea:0=0.f
 Engine:/Script/NavigationSystem.RecastNavMesh:MergeRegionSize:0=400.f
 Engine:/Script/NavigationSystem.RecastNavMesh:bUseBetterOffsetsFromCorners:0=true
+Engine:/Script/NavigationSystem.RecastNavMesh:RuntimeGeneration:0=Static
 Engine:/Script/NavigationSystem.NavArea_Null:DrawColor:0=(R=38,G=38,B=38,A=64)
 Engine:/Script/NavigationSystem.NavArea_Default:DrawColor:0=(R=140,G=255,B=0,A=164)
 Engine:RemoteConfiguration:Enabled:0=false
@@ -512,7 +512,7 @@ Engine:/Script/HardwareTargeting.HardwareTargetingSettings:DefaultGraphicsPerfor
 Engine:/Script/HardwareTargeting.HardwareTargetingSettings:AppliedDefaultGraphicsPerformance:0=Maximum
 Game:/Script/UnrealEd.ProjectPackagingSettings:Build:0=IfProjectHasCode
 Game:/Script/UnrealEd.ProjectPackagingSettings:BuildTarget:0=
-Game:/Script/UnrealEd.ProjectPackagingSettings:StagingDirectory:0=(Path="C/Users/Melih/Desktop/New folder")
+Game:/Script/UnrealEd.ProjectPackagingSettings:StagingDirectory:0=(Path="C/Users/zekat/Desktop/elgame2")
 Game:/Script/UnrealEd.ProjectPackagingSettings:ForDistribution:0=False
 Game:/Script/UnrealEd.ProjectPackagingSettings:bExcludeMonolithicEngineHeadersInNativizedCode:0=False
 Game:/Script/UnrealEd.ProjectPackagingSettings:bUseIoStore:0=False
