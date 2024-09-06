@@ -297,6 +297,12 @@
 			]
 		},
 		{
+			"ShaderMapHash": "38FB5BEC9C39CC1F6AD05D2912694DA4FC9ADF69",
+			"Assets": [
+				"/Game/Character/MainChar/Mesh/fesadam/cape"
+			]
+		},
+		{
 			"ShaderMapHash": "44F7445F69969D1815EFA0129F89EF54E2E423EF",
 			"Assets": [
 				"/Game/Character/MainChar/Mesh/fesadam/fes"
@@ -306,12 +312,6 @@
 			"ShaderMapHash": "DD7B6150B1E81D082441F26196F4A6466594D9FD",
 			"Assets": [
 				"/Game/Character/MainChar/Mesh/fesadam/mrpull"
-			]
-		},
-		{
-			"ShaderMapHash": "38FB5BEC9C39CC1F6AD05D2912694DA4FC9ADF69",
-			"Assets": [
-				"/Game/Character/MainChar/Mesh/fesadam/cape"
 			]
 		},
 		{
