@@ -267,6 +267,30 @@
 			]
 		},
 		{
+			"ShaderMapHash": "38FB5BEC9C39CC1F6AD05D2912694DA4FC9ADF69",
+			"Assets": [
+				"/Game/Character/MainChar/Mesh/fesadam/cape"
+			]
+		},
+		{
+			"ShaderMapHash": "44F7445F69969D1815EFA0129F89EF54E2E423EF",
+			"Assets": [
+				"/Game/Character/MainChar/Mesh/fesadam/fes"
+			]
+		},
+		{
+			"ShaderMapHash": "DD7B6150B1E81D082441F26196F4A6466594D9FD",
+			"Assets": [
+				"/Game/Character/MainChar/Mesh/fesadam/mrpull"
+			]
+		},
+		{
+			"ShaderMapHash": "AEF321E736E99FCB951708755F1DCD770BED52D9",
+			"Assets": [
+				"/Game/Character/MainChar/Mesh/silah/silahmat"
+			]
+		},
+		{
 			"ShaderMapHash": "8D5C9971654E22D92212E61C55D92EEA6D6F673A",
 			"Assets": [
 				"/Engine/BasicShapes/BasicShapeMaterial"
@@ -297,30 +321,6 @@
 			]
 		},
 		{
-			"ShaderMapHash": "38FB5BEC9C39CC1F6AD05D2912694DA4FC9ADF69",
-			"Assets": [
-				"/Game/Character/MainChar/Mesh/fesadam/cape"
-			]
-		},
-		{
-			"ShaderMapHash": "44F7445F69969D1815EFA0129F89EF54E2E423EF",
-			"Assets": [
-				"/Game/Character/MainChar/Mesh/fesadam/fes"
-			]
-		},
-		{
-			"ShaderMapHash": "DD7B6150B1E81D082441F26196F4A6466594D9FD",
-			"Assets": [
-				"/Game/Character/MainChar/Mesh/fesadam/mrpull"
-			]
-		},
-		{
-			"ShaderMapHash": "AEF321E736E99FCB951708755F1DCD770BED52D9",
-			"Assets": [
-				"/Game/Character/MainChar/Mesh/silah/silahmat"
-			]
-		},
-		{
 			"ShaderMapHash": "6D966E5C41CF95F7429D1D0F70508D19DCFA4D60",
 			"Assets": [
 				"/Engine/EditorMaterials/PreviewShadowIndicatorMaterial"
@@ -333,15 +333,45 @@
 			]
 		},
 		{
-			"ShaderMapHash": "C58B8071B5DA9837AE22335B0F17C7024324C2BC",
+			"ShaderMapHash": "324C2B4A992D666E3A11427D6EB4D02BE8C5C2B8",
 			"Assets": [
-				"/Game/SideScrollerBP/BuildFiles/Materials/shroommat/Material_017"
+				"/Game/SideScrollerBP/BuildFiles/Materials/NewMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "385857B0DE8EAEF7463903C747DDA711267BEC34",
+			"Assets": [
+				"/Game/SideScrollerBP/BuildFiles/Materials/mainmat"
+			]
+		},
+		{
+			"ShaderMapHash": "11D16366A44FB60D2DBA00453A20EE4B115F6584",
+			"Assets": [
+				"/Game/SideScrollerBP/BuildFiles/Materials/Glass"
+			]
+		},
+		{
+			"ShaderMapHash": "7B4EE5088CF71E883FE4C1C43E79FB357AEBB022",
+			"Assets": [
+				"/Game/SideScrollerBP/BuildFiles/Materials/PlatformOpacityMAT"
 			]
 		},
 		{
 			"ShaderMapHash": "E6B7B2885BFC0E545ABC2E72414DE0A84EE93B0E",
 			"Assets": [
 				"/Game/SideScrollerBP/BuildFiles/Materials/rockmat"
+			]
+		},
+		{
+			"ShaderMapHash": "9E8D820A58C1B8FC2970D55183BE840C66006DFF",
+			"Assets": [
+				"/Game/SideScrollerBP/Blueprints/Enemy/omurcekmat"
+			]
+		},
+		{
+			"ShaderMapHash": "C58B8071B5DA9837AE22335B0F17C7024324C2BC",
+			"Assets": [
+				"/Game/SideScrollerBP/BuildFiles/Materials/shroommat/Material_017"
 			]
 		},
 		{
@@ -357,39 +387,9 @@
 			]
 		},
 		{
-			"ShaderMapHash": "385857B0DE8EAEF7463903C747DDA711267BEC34",
-			"Assets": [
-				"/Game/SideScrollerBP/BuildFiles/Materials/mainmat"
-			]
-		},
-		{
-			"ShaderMapHash": "9E8D820A58C1B8FC2970D55183BE840C66006DFF",
-			"Assets": [
-				"/Game/SideScrollerBP/Blueprints/Enemy/omurcekmat"
-			]
-		},
-		{
 			"ShaderMapHash": "36B9EF5886629F900B7A084594A267B53631216F",
 			"Assets": [
 				"/Game/SideScrollerBP/BuildFiles/Materials/firstaid"
-			]
-		},
-		{
-			"ShaderMapHash": "324C2B4A992D666E3A11427D6EB4D02BE8C5C2B8",
-			"Assets": [
-				"/Game/SideScrollerBP/BuildFiles/Materials/NewMaterial"
-			]
-		},
-		{
-			"ShaderMapHash": "11D16366A44FB60D2DBA00453A20EE4B115F6584",
-			"Assets": [
-				"/Game/SideScrollerBP/BuildFiles/Materials/Glass"
-			]
-		},
-		{
-			"ShaderMapHash": "7B4EE5088CF71E883FE4C1C43E79FB357AEBB022",
-			"Assets": [
-				"/Game/SideScrollerBP/BuildFiles/Materials/PlatformOpacityMAT"
 			]
 		},
 		{
