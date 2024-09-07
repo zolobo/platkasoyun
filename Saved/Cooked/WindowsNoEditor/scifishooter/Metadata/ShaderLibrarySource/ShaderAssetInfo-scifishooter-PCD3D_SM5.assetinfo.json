@@ -291,21 +291,9 @@
 			]
 		},
 		{
-			"ShaderMapHash": "8D5C9971654E22D92212E61C55D92EEA6D6F673A",
+			"ShaderMapHash": "B6F46BFC550285FCF0CE358C417BCDFFD6D71349",
 			"Assets": [
-				"/Engine/BasicShapes/BasicShapeMaterial"
-			]
-		},
-		{
-			"ShaderMapHash": "DA5D093556F7ECC4E60363C4C4C2DC3DAFA848CA",
-			"Assets": [
-				"/Engine/Tutorial/SubEditors/TutorialAssets/M_smoke_subUV_blackbody"
-			]
-		},
-		{
-			"ShaderMapHash": "2733C6AE50BE8A963A02E3447FE496CEC1CACFE1",
-			"Assets": [
-				"/Game/Character/MainChar/Mesh/silah/Bronze"
+				"/Game/SideScrollerBP/BuildFiles/Materials/armadillomat/Material"
 			]
 		},
 		{
@@ -315,9 +303,27 @@
 			]
 		},
 		{
-			"ShaderMapHash": "B6F46BFC550285FCF0CE358C417BCDFFD6D71349",
+			"ShaderMapHash": "9E8D820A58C1B8FC2970D55183BE840C66006DFF",
 			"Assets": [
-				"/Game/SideScrollerBP/BuildFiles/Materials/armadillomat/Material"
+				"/Game/SideScrollerBP/BuildFiles/Materials/omurcekmat/omurcekmat"
+			]
+		},
+		{
+			"ShaderMapHash": "8D5C9971654E22D92212E61C55D92EEA6D6F673A",
+			"Assets": [
+				"/Engine/BasicShapes/BasicShapeMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "2733C6AE50BE8A963A02E3447FE496CEC1CACFE1",
+			"Assets": [
+				"/Game/Character/MainChar/Mesh/silah/Bronze"
+			]
+		},
+		{
+			"ShaderMapHash": "DA5D093556F7ECC4E60363C4C4C2DC3DAFA848CA",
+			"Assets": [
+				"/Engine/Tutorial/SubEditors/TutorialAssets/M_smoke_subUV_blackbody"
 			]
 		},
 		{
@@ -363,9 +369,9 @@
 			]
 		},
 		{
-			"ShaderMapHash": "9E8D820A58C1B8FC2970D55183BE840C66006DFF",
+			"ShaderMapHash": "36B9EF5886629F900B7A084594A267B53631216F",
 			"Assets": [
-				"/Game/SideScrollerBP/Blueprints/Enemy/omurcekmat"
+				"/Game/SideScrollerBP/BuildFiles/Materials/firstaid"
 			]
 		},
 		{
@@ -384,12 +390,6 @@
 			"ShaderMapHash": "E6CA8E8EEFDAA90AD8AB7929FE64C5518D5E2E39",
 			"Assets": [
 				"/Game/SideScrollerBP/BuildFiles/Materials/labmat"
-			]
-		},
-		{
-			"ShaderMapHash": "36B9EF5886629F900B7A084594A267B53631216F",
-			"Assets": [
-				"/Game/SideScrollerBP/BuildFiles/Materials/firstaid"
 			]
 		},
 		{
@@ -420,6 +420,12 @@
 			"ShaderMapHash": "B47CABED7A4537AAD9D04F5ACC70AD3D4BE7AE99",
 			"Assets": [
 				"/Game/Character/MainChar/Materials/M_UE4Man_ChestLogo"
+			]
+		},
+		{
+			"ShaderMapHash": "2282B92FD0A2EF1834FBEC9AE75A03973D9A0500",
+			"Assets": [
+				"/Engine/MapTemplates/Materials/BasicAsset03_2"
 			]
 		}
 	]
