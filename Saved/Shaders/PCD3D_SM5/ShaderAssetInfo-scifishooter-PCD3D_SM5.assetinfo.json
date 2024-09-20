@@ -268,33 +268,9 @@
 			]
 		},
 		{
-			"ShaderMapHash": "AEF321E736E99FCB951708755F1DCD770BED52D9",
-			"Assets": [
-				"/Game/Character/MainChar/Mesh/silah/silahmat"
-			]
-		},
-		{
-			"ShaderMapHash": "38AB586A54CB7B082AD771ECC72D29038EAC3D5E",
-			"Assets": [
-				"/Game/SideScrollerBP/Blueprints/ArmadilloTurret/a12"
-			]
-		},
-		{
-			"ShaderMapHash": "B6F46BFC550285FCF0CE358C417BCDFFD6D71349",
-			"Assets": [
-				"/Game/SideScrollerBP/BuildFiles/Materials/armadillomat/Material"
-			]
-		},
-		{
 			"ShaderMapHash": "8D5C9971654E22D92212E61C55D92EEA6D6F673A",
 			"Assets": [
 				"/Engine/BasicShapes/BasicShapeMaterial"
-			]
-		},
-		{
-			"ShaderMapHash": "44F7445F69969D1815EFA0129F89EF54E2E423EF",
-			"Assets": [
-				"/Game/Character/MainChar/Mesh/fesadam/fes"
 			]
 		},
 		{
@@ -310,6 +286,42 @@
 			]
 		},
 		{
+			"ShaderMapHash": "975A2DE73D2FC51A3179EB61E2051857B6B33014",
+			"Assets": [
+				"/Game/Character/MainChar/Mesh/fesadam/Armor_Puch"
+			]
+		},
+		{
+			"ShaderMapHash": "0AD42B54D3FC5B6DF20F56304D82FC03173AC193",
+			"Assets": [
+				"/Game/Character/MainChar/Mesh/fesadam/cape"
+			]
+		},
+		{
+			"ShaderMapHash": "44F7445F69969D1815EFA0129F89EF54E2E423EF",
+			"Assets": [
+				"/Game/Character/MainChar/Mesh/fesadam/fes"
+			]
+		},
+		{
+			"ShaderMapHash": "D57A5A429F8592760396E25AC698B7E26F0E226F",
+			"Assets": [
+				"/Game/Character/MainChar/Mesh/fesadam/Hat"
+			]
+		},
+		{
+			"ShaderMapHash": "6AFC4E891C19B120F956C9222074511785D9C2FD",
+			"Assets": [
+				"/Game/Character/MainChar/Mesh/fesadam/Spessman1"
+			]
+		},
+		{
+			"ShaderMapHash": "AEF321E736E99FCB951708755F1DCD770BED52D9",
+			"Assets": [
+				"/Game/Character/MainChar/Mesh/silah/silahmat"
+			]
+		},
+		{
 			"ShaderMapHash": "6D966E5C41CF95F7429D1D0F70508D19DCFA4D60",
 			"Assets": [
 				"/Engine/EditorMaterials/PreviewShadowIndicatorMaterial"
@@ -322,57 +334,15 @@
 			]
 		},
 		{
-			"ShaderMapHash": "324C2B4A992D666E3A11427D6EB4D02BE8C5C2B8",
+			"ShaderMapHash": "C58B8071B5DA9837AE22335B0F17C7024324C2BC",
 			"Assets": [
-				"/Game/SideScrollerBP/BuildFiles/Materials/NewMaterial"
-			]
-		},
-		{
-			"ShaderMapHash": "385857B0DE8EAEF7463903C747DDA711267BEC34",
-			"Assets": [
-				"/Game/SideScrollerBP/BuildFiles/Materials/mainmat"
-			]
-		},
-		{
-			"ShaderMapHash": "11D16366A44FB60D2DBA00453A20EE4B115F6584",
-			"Assets": [
-				"/Game/SideScrollerBP/BuildFiles/Materials/Glass"
-			]
-		},
-		{
-			"ShaderMapHash": "7B4EE5088CF71E883FE4C1C43E79FB357AEBB022",
-			"Assets": [
-				"/Game/SideScrollerBP/BuildFiles/Materials/PlatformOpacityMAT"
+				"/Game/SideScrollerBP/BuildFiles/Materials/shroommat/Material_017"
 			]
 		},
 		{
 			"ShaderMapHash": "E6B7B2885BFC0E545ABC2E72414DE0A84EE93B0E",
 			"Assets": [
 				"/Game/SideScrollerBP/BuildFiles/Materials/rockmat"
-			]
-		},
-		{
-			"ShaderMapHash": "2282B92FD0A2EF1834FBEC9AE75A03973D9A0500",
-			"Assets": [
-				"/Game/SideScrollerBP/Blueprints/ArmadilloTurret/a13"
-			]
-		},
-		{
-			"ShaderMapHash": "68F6954C6AF5E65AA28185DB5CD3860D8514E908",
-			"Assets": [
-				"/Game/SideScrollerBP/BuildFiles/Materials/omurcekmat/Bigboss"
-			]
-		},
-		{
-			"ShaderMapHash": "36B9EF5886629F900B7A084594A267B53631216F",
-			"Assets": [
-				"/Game/SideScrollerBP/BuildFiles/Materials/firstaid"
-			]
-		},
-		{
-			"ShaderMapHash": "C58B8071B5DA9837AE22335B0F17C7024324C2BC",
-			"Assets": [
-				"/Game/SideScrollerBP/BuildFiles/Materials/shroommat/Material_017"
 			]
 		},
 		{
@@ -388,21 +358,75 @@
 			]
 		},
 		{
+			"ShaderMapHash": "385857B0DE8EAEF7463903C747DDA711267BEC34",
+			"Assets": [
+				"/Game/SideScrollerBP/BuildFiles/Materials/mainmat"
+			]
+		},
+		{
+			"ShaderMapHash": "36B9EF5886629F900B7A084594A267B53631216F",
+			"Assets": [
+				"/Game/SideScrollerBP/BuildFiles/Materials/firstaid"
+			]
+		},
+		{
+			"ShaderMapHash": "7B4EE5088CF71E883FE4C1C43E79FB357AEBB022",
+			"Assets": [
+				"/Game/SideScrollerBP/BuildFiles/Materials/PlatformOpacityMAT"
+			]
+		},
+		{
+			"ShaderMapHash": "11D16366A44FB60D2DBA00453A20EE4B115F6584",
+			"Assets": [
+				"/Game/SideScrollerBP/BuildFiles/Materials/Glass"
+			]
+		},
+		{
 			"ShaderMapHash": "9E8D820A58C1B8FC2970D55183BE840C66006DFF",
 			"Assets": [
 				"/Game/SideScrollerBP/BuildFiles/Materials/omurcekmat/omurcekmat"
 			]
 		},
 		{
-			"ShaderMapHash": "B410A1776AA5E71AB3CA0B07F1CC4CD74F857DD8",
+			"ShaderMapHash": "68F6954C6AF5E65AA28185DB5CD3860D8514E908",
 			"Assets": [
-				"/Game/SideScrollerBP/spaceship/testuvmaterial"
+				"/Game/SideScrollerBP/BuildFiles/Materials/omurcekmat/Bigboss"
+			]
+		},
+		{
+			"ShaderMapHash": "2282B92FD0A2EF1834FBEC9AE75A03973D9A0500",
+			"Assets": [
+				"/Game/SideScrollerBP/Blueprints/ArmadilloTurret/a13"
+			]
+		},
+		{
+			"ShaderMapHash": "B6F46BFC550285FCF0CE358C417BCDFFD6D71349",
+			"Assets": [
+				"/Game/SideScrollerBP/BuildFiles/Materials/armadillomat/Material"
+			]
+		},
+		{
+			"ShaderMapHash": "38AB586A54CB7B082AD771ECC72D29038EAC3D5E",
+			"Assets": [
+				"/Game/SideScrollerBP/Blueprints/ArmadilloTurret/a12"
+			]
+		},
+		{
+			"ShaderMapHash": "324C2B4A992D666E3A11427D6EB4D02BE8C5C2B8",
+			"Assets": [
+				"/Game/SideScrollerBP/BuildFiles/Materials/NewMaterial"
 			]
 		},
 		{
 			"ShaderMapHash": "F4C2311CE249BD978D4B79476718559B6DF932CE",
 			"Assets": [
 				"/Game/SideScrollerBP/BuildFiles/decal/mmdecal"
+			]
+		},
+		{
+			"ShaderMapHash": "B410A1776AA5E71AB3CA0B07F1CC4CD74F857DD8",
+			"Assets": [
+				"/Game/SideScrollerBP/spaceship/testuvmaterial"
 			]
 		},
 		{
@@ -424,6 +448,13 @@
 			]
 		},
 		{
+			"ShaderMapHash": "8FD4AB7FDC0BC3C837929677393195B7422CE32B",
+			"Assets": [
+				"/Game/Character/MainChar/Mesh/fesadam/Spessman2",
+				"/Game/Character/MainChar/Mesh/fesadam/Material"
+			]
+		},
+		{
 			"ShaderMapHash": "719AB780A1912A1C4C1A7B1D5A158485B14842EC",
 			"Assets": [
 				"/Game/Character/MainChar/Materials/M_Male_Body"
@@ -433,37 +464,6 @@
 			"ShaderMapHash": "B47CABED7A4537AAD9D04F5ACC70AD3D4BE7AE99",
 			"Assets": [
 				"/Game/Character/MainChar/Materials/M_UE4Man_ChestLogo"
-			]
-		},
-		{
-			"ShaderMapHash": "6AFC4E891C19B120F956C9222074511785D9C2FD",
-			"Assets": [
-				"/Game/Character/MainChar/Mesh/fesadam/Spessman1"
-			]
-		},
-		{
-			"ShaderMapHash": "D57A5A429F8592760396E25AC698B7E26F0E226F",
-			"Assets": [
-				"/Game/Character/MainChar/Mesh/fesadam/Hat"
-			]
-		},
-		{
-			"ShaderMapHash": "0AD42B54D3FC5B6DF20F56304D82FC03173AC193",
-			"Assets": [
-				"/Game/Character/MainChar/Mesh/fesadam/cape"
-			]
-		},
-		{
-			"ShaderMapHash": "975A2DE73D2FC51A3179EB61E2051857B6B33014",
-			"Assets": [
-				"/Game/Character/MainChar/Mesh/fesadam/Armor_Puch"
-			]
-		},
-		{
-			"ShaderMapHash": "8FD4AB7FDC0BC3C837929677393195B7422CE32B",
-			"Assets": [
-				"/Game/Character/MainChar/Mesh/fesadam/Spessman2",
-				"/Game/Character/MainChar/Mesh/fesadam/Material"
 			]
 		}
 	]
