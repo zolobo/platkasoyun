@@ -3768,3 +3768,670 @@ Script call stack:
 [2025.08.29-11.33.55:938][449]LogSavePackage: Moving '../../../../../../Users/Melih/Documents/GitHub/MyProject/platkasoyun/Saved/MainMenuLevelB4E46853407133A236A498ABD3525878.tmp' to '../../../../../../Users/Melih/Documents/GitHub/MyProject/platkasoyun/Content/SideScrollerBP/Maps/MainMenuLevel.umap'
 [2025.08.29-11.33.55:979][449]AssetCheck: New page: Asset Save: MainMenuLevel
 [2025.08.29-11.33.55:979][449]LogContentValidation: Display: Validating World /Game/SideScrollerBP/Maps/MainMenuLevel.MainMenuLevel
+[2025.08.29-11.35.08:215][134]LogTemp: Repeating last play command: Selected Viewport
+[2025.08.29-11.35.08:225][134]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.08.29-11.35.08:225][134]PIE: New page: PIE session: MainMenuLevel (29 Aug 2025, 17.35.08)
+[2025.08.29-11.35.08:268][134]LogPlayLevel: Creating play world package: /Game/SideScrollerBP/Maps/UEDPIE_0_MainMenuLevel
+[2025.08.29-11.35.08:270][134]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002022s)
+[2025.08.29-11.35.08:271][134]LogAIModule: Creating AISystem for world MainMenuLevel
+[2025.08.29-11.35.08:271][134]LogPlayLevel: PIE: World Init took: (0.001119s)
+[2025.08.29-11.35.08:271][134]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/SideScrollerBP/Maps/MainMenuLevel.MainMenuLevel to /Game/SideScrollerBP/Maps/UEDPIE_0_MainMenuLevel.MainMenuLevel (0.003311s)
+[2025.08.29-11.35.08:314][134]LogUObjectHash: Compacting FUObjectHashTables data took   5.60ms
+[2025.08.29-11.35.08:315][134]LogAudio: Display: Creating Audio Device:                 Id: 24, Scope: Unique, Realtime: True
+[2025.08.29-11.35.08:315][134]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.08.29-11.35.08:315][134]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.08.29-11.35.08:315][134]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.08.29-11.35.08:315][134]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.08.29-11.35.08:315][134]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2025.08.29-11.35.08:315][134]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.08.29-11.35.08:316][134]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2025.08.29-11.35.08:316][134]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.08.29-11.35.08:316][134]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.08.29-11.35.08:316][134]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.08.29-11.35.08:316][134]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.08.29-11.35.08:316][134]LogAudioMixer: Display: Initializing audio mixer.
+[2025.08.29-11.35.08:319][134]LogAudioMixer: Display: 0: FrontLeft
+[2025.08.29-11.35.08:319][134]LogAudioMixer: Display: 1: FrontRight
+[2025.08.29-11.35.08:463][134]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2025.08.29-11.35.08:463][134]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.08.29-11.35.08:463][134]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.08.29-11.35.08:463][134]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.08.29-11.35.08:463][134]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2025.08.29-11.35.08:463][134]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2025.08.29-11.35.08:463][134]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2025.08.29-11.35.08:466][134]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2025.08.29-11.35.08:466][134]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2025.08.29-11.35.08:466][134]LogInit: FAudioDevice initialized.
+[2025.08.29-11.35.08:466][134]LogAudio: Display: Audio Device (ID: 24) registered with world 'MainMenuLevel'.
+[2025.08.29-11.35.08:478][134]LogLoad: Game class is 'MainMenuGameMode_C'
+[2025.08.29-11.35.08:479][134]LogWorld: Bringing World /Game/SideScrollerBP/Maps/UEDPIE_0_MainMenuLevel.MainMenuLevel up for play (max tick rate 60) at 2025.08.29-14.35.08
+[2025.08.29-11.35.08:479][134]LogWorld: Bringing up level for play took: 0.000350
+[2025.08.29-11.35.08:479][134]LogOnline: OSS: Creating online subsystem instance for: :Context_62
+[2025.08.29-11.35.08:507][134]PIE: Server logged in
+[2025.08.29-11.35.08:508][134]PIE: Play in editor total start time 0,283 seconds.
+[2025.08.29-11.35.09:609][200]LogNet: Browse: /Game/SideScrollerBP/Maps/level1
+[2025.08.29-11.35.09:610][200]LogLoad: LoadMap: /Game/SideScrollerBP/Maps/level1
+[2025.08.29-11.35.09:610][200]LogWorld: BeginTearingDown for /Game/SideScrollerBP/Maps/UEDPIE_0_MainMenuLevel
+[2025.08.29-11.35.09:610][200]LogWorld: UWorld::CleanupWorld for MainMenuLevel, bSessionEnded=true, bCleanupResources=true
+[2025.08.29-11.35.09:610][200]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.08.29-11.35.09:679][200]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.08.29-11.35.09:686][200]LogUObjectHash: Compacting FUObjectHashTables data took   5.35ms
+[2025.08.29-11.35.09:687][200]LogPlayLevel: Creating play world package: /Game/SideScrollerBP/Maps/UEDPIE_0_level1
+[2025.08.29-11.35.09:750][200]LogPlayLevel: PIE: StaticDuplicateObject took: (0.062576s)
+[2025.08.29-11.35.09:751][200]LogAIModule: Creating AISystem for world level1
+[2025.08.29-11.35.09:752][200]LogPlayLevel: PIE: World Init took: (0.001331s)
+[2025.08.29-11.35.09:752][200]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/SideScrollerBP/Maps/level1.level1 to /Game/SideScrollerBP/Maps/UEDPIE_0_level1.level1 (0.064169s)
+[2025.08.29-11.35.09:752][200]LogAudio: Display: Audio Device (ID: 24) registered with world 'level1'.
+[2025.08.29-11.35.09:752][200]LogLoad: Game class is 'SideScrollerGameMode_C'
+[2025.08.29-11.35.09:792][200]LogWorld: Bringing World /Game/SideScrollerBP/Maps/UEDPIE_0_level1.level1 up for play (max tick rate 60) at 2025.08.29-14.35.09
+[2025.08.29-11.35.09:796][200]LogWorld: Bringing up level for play took: 0.043962
+[2025.08.29-11.35.09:798][200]LogNavigation: Warning: Recreating dtNavMesh instance due to saved navmesh origin (X=0.000 Y=11.607 Z=51.944, usually the RecastNavMesh location) not being aligned with tile size (1025 uu) 
+[2025.08.29-11.35.09:810][200]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2025.08.29-11.35.09:814][200]LogLoad: Took 0.204122 seconds to LoadMap(/Game/SideScrollerBP/Maps/UEDPIE_0_level1)
+[2025.08.29-11.35.11:051][268]Cmd: LevelEditor.ToggleImmersive
+[2025.08.29-11.35.22:792][968]Cmd: LevelEditor.ToggleImmersive
+[2025.08.29-11.35.23:683][ 11]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.08.29-11.35.23:683][ 11]LogWorld: BeginTearingDown for /Game/SideScrollerBP/Maps/UEDPIE_0_level1
+[2025.08.29-11.35.23:684][ 11]LogWorld: UWorld::CleanupWorld for level1, bSessionEnded=true, bCleanupResources=true
+[2025.08.29-11.35.23:688][ 11]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.08.29-11.35.23:701][ 11]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.08.29-11.35.23:712][ 11]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.08.29-11.35.23:748][ 11]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.08.29-11.35.23:748][ 11]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2025.08.29-11.35.23:750][ 11]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2025.08.29-11.35.23:767][ 11]LogUObjectHash: Compacting FUObjectHashTables data took   5.43ms
+[2025.08.29-11.35.23:802][ 12]LogPlayLevel: Display: Destroying online subsystem :Context_62
+[2025.08.29-11.35.45:495][236]LogAssetEditorSubsystem: Opening Asset editor for Texture2D /Game/SideScrollerBP/BuildFiles/Materials/Material_Normal_OpenGL.Material_Normal_OpenGL
+[2025.08.29-11.35.45:521][236]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'TextureEditor' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2025.08.29-11.36.12:379][765]LogAssetEditorSubsystem: Opening Asset editor for Texture2D /Game/SideScrollerBP/BuildFiles/Materials/trimsheetscififirstaidbox_testuvmaterial_OcclusionRoughnessMetallic.trimsheetscififirstaidbox_testuvmaterial_OcclusionRoughnessMetallic
+[2025.08.29-11.36.36:899][221]LogTexture: Display: Building textures: trimsheetscififirstaidbox_testuvmaterial_OcclusionRoughnessMetallic (OODLE_AutoDXT, 512X512)
+[2025.08.29-11.36.36:939][221]LogMaterial: Display: Missing cached shadermap for firstaid in PCD3D_SM5, Default, SM5 (DDC key hash: CB4E7AF6A47643E1958565782FC08CBA3F5AE939), compiling. 
+[2025.08.29-11.36.36:940][221]LogMaterial: Warning: [AssetLog] C:\Users\Melih\Documents\GitHub\MyProject\platkasoyun\Content\SideScrollerBP\BuildFiles\Materials\firstaid.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2025.08.29-11.36.36:940][221]LogMaterial: Display: 	(Node TextureSample) TextureSample> Sampler type is Color, should be Linear Color for /Game/SideScrollerBP/BuildFiles/Materials/trimsheetscififirstaidbox_testuvmaterial_OcclusionRoughnessMetallic.trimsheetscififirstaidbox_testuvmaterial_OcclusionRoughnessMetallic
+[2025.08.29-11.36.38:093][279]LogSavePackage: Moving '../../../../../../Users/Melih/Documents/GitHub/MyProject/platkasoyun/Saved/trimsheetscififirstaidbox_testuvAA27728741F72433EEFFC3B9B250C52E.tmp' to '../../../../../../Users/Melih/Documents/GitHub/MyProject/platkasoyun/Content/SideScrollerBP/BuildFiles/Materials/trimsheetscififirstaidbox_testuvmaterial_OcclusionRoughnessMetallic.uasset'
+[2025.08.29-11.36.38:125][279]AssetCheck: New page: Asset Save: trimsheetscififirstaidbox_testuvmaterial_OcclusionRoughnessMetallic
+[2025.08.29-11.36.38:125][279]LogContentValidation: Display: Validating Texture2D /Game/SideScrollerBP/BuildFiles/Materials/trimsheetscififirstaidbox_testuvmaterial_OcclusionRoughnessMetallic.trimsheetscififirstaidbox_testuvmaterial_OcclusionRoughnessMetallic
+[2025.08.29-11.36.39:479][357]LogSavePackage: Moving '../../../../../../Users/Melih/Documents/GitHub/MyProject/platkasoyun/Saved/trimsheetscififirstaidbox_testuvC5EF283E46BE1FCE46DF0D8F271B1B3F.tmp' to '../../../../../../Users/Melih/Documents/GitHub/MyProject/platkasoyun/Content/SideScrollerBP/BuildFiles/Materials/trimsheetscififirstaidbox_testuvmaterial_OcclusionRoughnessMetallic.uasset'
+[2025.08.29-11.36.39:500][357]AssetCheck: New page: Asset Save: trimsheetscififirstaidbox_testuvmaterial_OcclusionRoughnessMetallic
+[2025.08.29-11.36.39:500][357]LogContentValidation: Display: Validating Texture2D /Game/SideScrollerBP/BuildFiles/Materials/trimsheetscififirstaidbox_testuvmaterial_OcclusionRoughnessMetallic.trimsheetscififirstaidbox_testuvmaterial_OcclusionRoughnessMetallic
+[2025.08.29-11.36.50:783][ 23]LogAssetEditorSubsystem: Opening Asset editor for Texture2D /Game/SideScrollerBP/BuildFiles/Materials/untitled_testuvmaterial_OcclusionRoughnessMetallic.untitled_testuvmaterial_OcclusionRoughnessMetallic
+[2025.08.29-11.36.56:940][368]LogTexture: Display: Building textures: untitled_testuvmaterial_OcclusionRoughnessMetallic (OODLE_AutoDXT, 2048X2048)
+[2025.08.29-11.36.57:225][368]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2025.08.29-11.36.57:225][368]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2025.08.29-11.36.57:244][368]LogMaterial: Display: Missing cached shadermap for labmat in PCD3D_SM5, Default, SM5 (DDC key hash: 2B29B6792F0860803C87CD2B082B6686545AA241), compiling. 
+[2025.08.29-11.36.57:245][368]LogMaterial: Warning: [AssetLog] C:\Users\Melih\Documents\GitHub\MyProject\platkasoyun\Content\SideScrollerBP\BuildFiles\Materials\labmat.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2025.08.29-11.36.57:245][368]LogMaterial: Display: 	(Node TextureSample) TextureSample> Sampler type is Color, should be Linear Color for /Game/SideScrollerBP/BuildFiles/Materials/untitled_testuvmaterial_OcclusionRoughnessMetallic.untitled_testuvmaterial_OcclusionRoughnessMetallic
+[2025.08.29-11.36.58:599][434]LogSavePackage: Moving '../../../../../../Users/Melih/Documents/GitHub/MyProject/platkasoyun/Saved/untitled_testuvmaterial_OcclusioABC5716940AE214CB5E075B3C93AA870.tmp' to '../../../../../../Users/Melih/Documents/GitHub/MyProject/platkasoyun/Content/SideScrollerBP/BuildFiles/Materials/untitled_testuvmaterial_OcclusionRoughnessMetallic.uasset'
+[2025.08.29-11.36.58:620][434]AssetCheck: New page: Asset Save: untitled_testuvmaterial_OcclusionRoughnessMetallic
+[2025.08.29-11.36.58:620][434]LogContentValidation: Display: Validating Texture2D /Game/SideScrollerBP/BuildFiles/Materials/untitled_testuvmaterial_OcclusionRoughnessMetallic.untitled_testuvmaterial_OcclusionRoughnessMetallic
+[2025.08.29-11.37.06:341][756]LogAssetEditorSubsystem: Opening Asset editor for Texture2D /Game/SideScrollerBP/BuildFiles/Materials/Material_Base_color.Material_Base_color
+[2025.08.29-11.37.15:794][291]LogAssetEditorSubsystem: Opening Asset editor for Texture2D /Game/SideScrollerBP/BuildFiles/Materials/omurcekmat/araknitl_testuvmaterial_OcclusionRoughnessMetallic.araknitl_testuvmaterial_OcclusionRoughnessMetallic
+[2025.08.29-11.37.22:903][698]LogTexture: Display: Building textures: araknitl_testuvmaterial_OcclusionRoughnessMetallic (OODLE_AutoDXT, 2048X2048)
+[2025.08.29-11.37.23:149][698]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2025.08.29-11.37.23:149][698]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2025.08.29-11.37.23:168][698]LogMaterial: Display: Missing cached shadermap for omurcekmat in PCD3D_SM5, Default, SM5 (DDC key hash: 5EA73C548A884A9AA1E4EF3E4C58DC2D46BC75A8), compiling. 
+[2025.08.29-11.37.23:168][698]LogMaterial: Warning: [AssetLog] C:\Users\Melih\Documents\GitHub\MyProject\platkasoyun\Content\SideScrollerBP\BuildFiles\Materials\omurcekmat\omurcekmat.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2025.08.29-11.37.23:168][698]LogMaterial: Display: 	(Node TextureSample) TextureSample> Sampler type is Color, should be Linear Color for /Game/SideScrollerBP/BuildFiles/Materials/omurcekmat/araknitl_testuvmaterial_OcclusionRoughnessMetallic.araknitl_testuvmaterial_OcclusionRoughnessMetallic
+[2025.08.29-11.37.24:547][769]LogSavePackage: Moving '../../../../../../Users/Melih/Documents/GitHub/MyProject/platkasoyun/Saved/araknitl_testuvmaterial_OcclusioD458B46A4E4D0DB7E23D42B4AA7D6CEE.tmp' to '../../../../../../Users/Melih/Documents/GitHub/MyProject/platkasoyun/Content/SideScrollerBP/BuildFiles/Materials/omurcekmat/araknitl_testuvmaterial_OcclusionRoughnessMetallic.uasset'
+[2025.08.29-11.37.24:583][769]AssetCheck: New page: Asset Save: araknitl_testuvmaterial_OcclusionRoughnessMetallic
+[2025.08.29-11.37.24:583][769]LogContentValidation: Display: Validating Texture2D /Game/SideScrollerBP/BuildFiles/Materials/omurcekmat/araknitl_testuvmaterial_OcclusionRoughnessMetallic.araknitl_testuvmaterial_OcclusionRoughnessMetallic
+[2025.08.29-11.37.37:906][525]LogWorld: UWorld::CleanupWorld for World_38, bSessionEnded=true, bCleanupResources=true
+[2025.08.29-11.37.37:906][525]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.08.29-11.37.39:418][604]LogCascade: Quitting Cascade. FXSystem=0x000001D959B83010
+[2025.08.29-11.37.39:440][604]LogWorld: UWorld::CleanupWorld for World_37, bSessionEnded=true, bCleanupResources=true
+[2025.08.29-11.37.39:440][604]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.08.29-11.37.45:201][928]LogTemp: Repeating last play command: Selected Viewport
+[2025.08.29-11.37.45:212][928]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.08.29-11.37.45:212][928]PIE: New page: PIE session: MainMenuLevel (29 Aug 2025, 17.37.45)
+[2025.08.29-11.37.45:212][928]LogPlayLevel: Creating play world package: /Game/SideScrollerBP/Maps/UEDPIE_0_MainMenuLevel
+[2025.08.29-11.37.45:213][928]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001647s)
+[2025.08.29-11.37.45:214][928]LogAIModule: Creating AISystem for world MainMenuLevel
+[2025.08.29-11.37.45:215][928]LogPlayLevel: PIE: World Init took: (0.001244s)
+[2025.08.29-11.37.45:215][928]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/SideScrollerBP/Maps/MainMenuLevel.MainMenuLevel to /Game/SideScrollerBP/Maps/UEDPIE_0_MainMenuLevel.MainMenuLevel (0.003031s)
+[2025.08.29-11.37.45:326][928]LogUObjectHash: Compacting FUObjectHashTables data took   9.30ms
+[2025.08.29-11.37.45:331][928]LogAudio: Display: Creating Audio Device:                 Id: 25, Scope: Unique, Realtime: True
+[2025.08.29-11.37.45:331][928]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.08.29-11.37.45:331][928]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.08.29-11.37.45:331][928]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.08.29-11.37.45:331][928]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.08.29-11.37.45:331][928]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2025.08.29-11.37.45:331][928]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.08.29-11.37.45:331][928]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2025.08.29-11.37.45:331][928]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.08.29-11.37.45:332][928]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.08.29-11.37.45:332][928]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.08.29-11.37.45:332][928]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.08.29-11.37.45:332][928]LogAudioMixer: Display: Initializing audio mixer.
+[2025.08.29-11.37.45:336][928]LogAudioMixer: Display: 0: FrontLeft
+[2025.08.29-11.37.45:336][928]LogAudioMixer: Display: 1: FrontRight
+[2025.08.29-11.37.45:479][928]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2025.08.29-11.37.45:479][928]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.08.29-11.37.45:479][928]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.08.29-11.37.45:480][928]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.08.29-11.37.45:480][928]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2025.08.29-11.37.45:480][928]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2025.08.29-11.37.45:480][928]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2025.08.29-11.37.45:482][928]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2025.08.29-11.37.45:482][928]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2025.08.29-11.37.45:482][928]LogInit: FAudioDevice initialized.
+[2025.08.29-11.37.45:482][928]LogAudio: Display: Audio Device (ID: 25) registered with world 'MainMenuLevel'.
+[2025.08.29-11.37.45:496][928]LogLoad: Game class is 'MainMenuGameMode_C'
+[2025.08.29-11.37.45:497][928]LogWorld: Bringing World /Game/SideScrollerBP/Maps/UEDPIE_0_MainMenuLevel.MainMenuLevel up for play (max tick rate 60) at 2025.08.29-14.37.45
+[2025.08.29-11.37.45:497][928]LogWorld: Bringing up level for play took: 0.000423
+[2025.08.29-11.37.45:498][928]LogOnline: OSS: Creating online subsystem instance for: :Context_63
+[2025.08.29-11.37.45:526][928]PIE: Server logged in
+[2025.08.29-11.37.45:526][928]PIE: Play in editor total start time 0,315 seconds.
+[2025.08.29-11.37.46:159][966]LogNet: Browse: /Game/SideScrollerBP/Maps/level1
+[2025.08.29-11.37.46:159][966]LogLoad: LoadMap: /Game/SideScrollerBP/Maps/level1
+[2025.08.29-11.37.46:159][966]LogWorld: BeginTearingDown for /Game/SideScrollerBP/Maps/UEDPIE_0_MainMenuLevel
+[2025.08.29-11.37.46:160][966]LogWorld: UWorld::CleanupWorld for MainMenuLevel, bSessionEnded=true, bCleanupResources=true
+[2025.08.29-11.37.46:160][966]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.08.29-11.37.46:230][966]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.08.29-11.37.46:263][966]LogUObjectHash: Compacting FUObjectHashTables data took   7.36ms
+[2025.08.29-11.37.46:264][966]LogPlayLevel: Creating play world package: /Game/SideScrollerBP/Maps/UEDPIE_0_level1
+[2025.08.29-11.37.46:328][966]LogPlayLevel: PIE: StaticDuplicateObject took: (0.063327s)
+[2025.08.29-11.37.46:329][966]LogAIModule: Creating AISystem for world level1
+[2025.08.29-11.37.46:329][966]LogPlayLevel: PIE: World Init took: (0.001353s)
+[2025.08.29-11.37.46:329][966]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/SideScrollerBP/Maps/level1.level1 to /Game/SideScrollerBP/Maps/UEDPIE_0_level1.level1 (0.064919s)
+[2025.08.29-11.37.46:329][966]LogAudio: Display: Audio Device (ID: 25) registered with world 'level1'.
+[2025.08.29-11.37.46:329][966]LogLoad: Game class is 'SideScrollerGameMode_C'
+[2025.08.29-11.37.46:369][966]LogWorld: Bringing World /Game/SideScrollerBP/Maps/UEDPIE_0_level1.level1 up for play (max tick rate 60) at 2025.08.29-14.37.46
+[2025.08.29-11.37.46:373][966]LogWorld: Bringing up level for play took: 0.042990
+[2025.08.29-11.37.46:375][966]LogNavigation: Warning: Recreating dtNavMesh instance due to saved navmesh origin (X=0.000 Y=11.607 Z=51.944, usually the RecastNavMesh location) not being aligned with tile size (1025 uu) 
+[2025.08.29-11.37.46:388][966]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2025.08.29-11.37.46:391][966]LogLoad: Took 0.231477 seconds to LoadMap(/Game/SideScrollerBP/Maps/UEDPIE_0_level1)
+[2025.08.29-11.37.47:728][ 37]Cmd: LevelEditor.ToggleImmersive
+[2025.08.29-11.38.04:878][ 51]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.08.29-11.38.04:878][ 51]LogWorld: BeginTearingDown for /Game/SideScrollerBP/Maps/UEDPIE_0_level1
+[2025.08.29-11.38.04:879][ 51]LogWorld: UWorld::CleanupWorld for level1, bSessionEnded=true, bCleanupResources=true
+[2025.08.29-11.38.04:884][ 51]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.08.29-11.38.04:909][ 51]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.08.29-11.38.04:919][ 51]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.08.29-11.38.04:950][ 51]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.08.29-11.38.04:953][ 51]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2025.08.29-11.38.04:955][ 51]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2025.08.29-11.38.04:969][ 51]LogUObjectHash: Compacting FUObjectHashTables data took   5.24ms
+[2025.08.29-11.38.05:001][ 52]LogPlayLevel: Display: Destroying online subsystem :Context_63
+[2025.08.29-11.38.09:679][311]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/SideScrollerBP/Blueprints/Enemy/EnemyBP.EnemyBP
+[2025.08.29-11.38.16:413][653]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/SideScrollerBP/BuildFiles/Materials/omurcekmat/omurcekmat.omurcekmat
+[2025.08.29-11.38.16:419][653]LogMaterial: Display: Missing cached shadermap for omurcekmat in PCD3D_SM5, Default, SM5 (DDC key hash: D40093029E33972246A3FB5709597F677130CFB3), compiling. 
+[2025.08.29-11.38.16:419][653]LogMaterial: Warning: [AssetLog] /Engine/Transient.omurcekmat (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2025.08.29-11.38.16:419][653]LogMaterial: Display: 	(Node TextureSample) TextureSample> Sampler type is Color, should be Linear Color for /Game/SideScrollerBP/BuildFiles/Materials/omurcekmat/araknitl_testuvmaterial_OcclusionRoughnessMetallic.araknitl_testuvmaterial_OcclusionRoughnessMetallic
+[2025.08.29-11.38.16:444][653]LogTexture: Default maximum texture size for cubemaps generated from long-lat sources has been changed from 512 to unlimited. In order to preserve old behaiour for '/Engine/EditorMaterials/AssetViewer/EpicQuadPanorama_CC+EV1.EpicQuadPanorama_CC+EV1', its maximum texture size has been explicitly set to 512.
+[2025.08.29-11.38.16:550][653]LogTexture: Default maximum texture size for cubemaps generated from long-lat sources has been changed from 512 to unlimited. In order to preserve old behaiour for '/Engine/MapTemplates/Sky/SunsetAmbientCubemap.SunsetAmbientCubemap', its maximum texture size has been explicitly set to 512.
+[2025.08.29-11.38.16:791][653]LogMaterial: Display: Missing cached shadermap for omurcekmat in PCD3D_SM5, Default, SM5 (DDC key hash: EB1DECB4FFAEC952B606756A36AFC5D5EAA174BF), compiling. 
+[2025.08.29-11.38.16:792][653]LogMaterial: Warning: [AssetLog] /Engine/Transient.omurcekmat (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2025.08.29-11.38.16:792][653]LogMaterial: Display: 	(Node TextureSample) TextureSample> Sampler type is Color, should be Linear Color for /Game/SideScrollerBP/BuildFiles/Materials/omurcekmat/araknitl_testuvmaterial_OcclusionRoughnessMetallic.araknitl_testuvmaterial_OcclusionRoughnessMetallic
+[2025.08.29-11.38.16:797][653]LogMaterial: Display: Missing cached shadermap for omurcekmat in PCD3D_SM5, Default, SM5 (DDC key hash: 7E290662E627B510BC8963C6C2CA297893443616), compiling. 
+[2025.08.29-11.38.16:798][653]LogMaterial: Warning: [AssetLog] /Engine/Transient.omurcekmat (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2025.08.29-11.38.16:798][653]LogMaterial: Display: 	(Node TextureSample) TextureSample> Sampler type is Color, should be Linear Color for /Game/SideScrollerBP/BuildFiles/Materials/omurcekmat/araknitl_testuvmaterial_OcclusionRoughnessMetallic.araknitl_testuvmaterial_OcclusionRoughnessMetallic
+[2025.08.29-11.38.16:801][653]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_2 in PCD3D_SM5, Default, SM5 (DDC key hash: 3E563D70BA4943FA2D05DEC5F9296EE9EDE10B91), compiling. 
+[2025.08.29-11.38.16:803][653]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_8 in PCD3D_SM5, Default, SM5 (DDC key hash: 894F41C49A467751EEA89EA38AF71BBA7354C027), compiling. 
+[2025.08.29-11.38.16:804][653]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_1 in PCD3D_SM5, Default, SM5 (DDC key hash: 6FECCFB02CB68E0DF365CB93584B76F19A7F3697), compiling. 
+[2025.08.29-11.38.16:806][653]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_6 in PCD3D_SM5, Default, SM5 (DDC key hash: DA6C2D964E92A99D69057FD033960C4BD549358E), compiling. 
+[2025.08.29-11.38.16:808][653]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_4 in PCD3D_SM5, Default, SM5 (DDC key hash: 345A91873B0F58462866A43E5B48DE3EFE3C0917), compiling. 
+[2025.08.29-11.38.16:809][653]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_7 in PCD3D_SM5, Default, SM5 (DDC key hash: 2BEB3D13392C17C9AD3E435E157CCE6DA9F9B9A9), compiling. 
+[2025.08.29-11.38.16:810][653]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_3 in PCD3D_SM5, Default, SM5 (DDC key hash: F01BF0E9E2116B232B1D404F0EF30FB2D042B2E0), compiling. 
+[2025.08.29-11.38.16:850][653]MaterialEditorStats: Error: [SM5] (Node TextureSample) TextureSample> Sampler type is Color, should be Linear Color for /Game/SideScrollerBP/BuildFiles/Materials/omurcekmat/araknitl_testuvmaterial_OcclusionRoughnessMetallic.araknitl_testuvmaterial_OcclusionRoughnessMetallic
+[2025.08.29-11.38.17:686][694]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2025.08.29-11.38.17:686][694]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 2
+[2025.08.29-11.38.17:686][694]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 1
+[2025.08.29-11.38.17:686][694]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2025.08.29-11.38.17:731][696]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2025.08.29-11.38.17:731][696]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 2
+[2025.08.29-11.38.17:731][696]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 1
+[2025.08.29-11.38.17:731][696]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2025.08.29-11.38.17:970][708]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2025.08.29-11.38.17:970][708]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 2
+[2025.08.29-11.38.17:970][708]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 1
+[2025.08.29-11.38.17:970][708]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2025.08.29-11.38.18:122][713]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 2
+[2025.08.29-11.38.18:122][713]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2025.08.29-11.38.18:122][713]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 1
+[2025.08.29-11.38.18:122][713]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2025.08.29-11.38.18:122][713]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2025.08.29-11.38.18:379][721]LogMaterialEditor: Saving and Compiling material omurcekmat
+[2025.08.29-11.38.18:408][721]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 2
+[2025.08.29-11.38.18:408][721]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2025.08.29-11.38.18:424][721]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2025.08.29-11.38.18:424][721]LogShaderCompilers: Display: Total job queries 2933, among them cache hits 1464 (49.91%)
+[2025.08.29-11.38.18:424][721]LogShaderCompilers: Display: Tracking 1460 distinct input hashes that result in 804 distinct outputs (55.07%)
+[2025.08.29-11.38.18:425][721]LogShaderCompilers: Display: RAM used: 5.07 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.62%
+[2025.08.29-11.38.18:425][721]LogShaderCompilers: Display: ================================================
+[2025.08.29-11.38.18:454][721]LogSavePackage: Moving '../../../../../../Users/Melih/Documents/GitHub/MyProject/platkasoyun/Saved/omurcekmatE330D346488E7ECC779901A23D9802EF.tmp' to '../../../../../../Users/Melih/Documents/GitHub/MyProject/platkasoyun/Content/SideScrollerBP/BuildFiles/Materials/omurcekmat/omurcekmat.uasset'
+[2025.08.29-11.38.18:514][721]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 1
+[2025.08.29-11.38.18:514][721]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2025.08.29-11.38.18:514][721]AssetCheck: New page: Asset Save: omurcekmat
+[2025.08.29-11.38.18:514][721]LogContentValidation: Display: Validating Material /Game/SideScrollerBP/BuildFiles/Materials/omurcekmat/omurcekmat.omurcekmat
+[2025.08.29-11.38.19:146][740]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2025.08.29-11.38.19:146][740]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 2
+[2025.08.29-11.38.19:146][740]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 1
+[2025.08.29-11.38.19:146][740]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2025.08.29-11.38.30:091][370]LogMaterial: Display: Missing cached shadermap for omurcekmat in PCD3D_SM5, Default, SM5 (DDC key hash: 350B6035EF4A33F31FCDB0884197A36FF6B4A49D), compiling. 
+[2025.08.29-11.38.30:092][370]LogMaterial: Warning: [AssetLog] /Engine/Transient.omurcekmat (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2025.08.29-11.38.30:092][370]LogMaterial: Display: 	(Node TextureSample) TextureSample> Sampler type is Color, should be Linear Color for /Game/SideScrollerBP/BuildFiles/Materials/omurcekmat/araknitl_testuvmaterial_OcclusionRoughnessMetallic.araknitl_testuvmaterial_OcclusionRoughnessMetallic
+[2025.08.29-11.38.32:595][507]LogMaterial: Display: Missing cached shadermap for omurcekmat in PCD3D_SM5, Default, SM5 (DDC key hash: AE647D8B7A98FF540514F9EAD96DC964ED49F3C8), compiling. 
+[2025.08.29-11.38.32:596][507]LogMaterial: Warning: [AssetLog] /Engine/Transient.omurcekmat (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2025.08.29-11.38.32:596][507]LogMaterial: Display: 	(Node TextureSample) TextureSample> Sampler type is Color, should be Linear Color for /Game/SideScrollerBP/BuildFiles/Materials/omurcekmat/araknitl_testuvmaterial_OcclusionRoughnessMetallic.araknitl_testuvmaterial_OcclusionRoughnessMetallic
+[2025.08.29-11.38.36:730][751]LogMaterial: Display: Missing cached shadermap for omurcekmat in PCD3D_SM5, Default, SM5 (DDC key hash: BF9AE02B4C187CF688CFC1E0BD37F404C3BD3306), compiling. 
+[2025.08.29-11.38.36:733][751]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_8 in PCD3D_SM5, Default, SM5 (DDC key hash: 5A4B1D8E18B356D57598D6D6BE9BF4AE55AE939F), compiling. 
+[2025.08.29-11.38.36:736][751]LogMaterial: Display: Missing cached shadermap for omurcekmat in PCD3D_SM5, Default, SM5 (DDC key hash: 7D33133F9ADE9EFAC9472A980A98AC23B398954E), compiling. 
+[2025.08.29-11.38.36:746][751]MaterialEditorStats: Texture samplers: 0/16
+[2025.08.29-11.38.36:746][751]MaterialEditorStats: Texture Lookups (Est.): VS(1), PS(5)
+[2025.08.29-11.38.36:746][751]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2025.08.29-11.38.36:757][751]LogShaderCompilers: Display: Submitted 1 shader compile jobs with 'ForceLocal' priority
+[2025.08.29-11.38.36:760][751]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2025.08.29-11.38.36:768][751]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 3
+[2025.08.29-11.38.36:768][751]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 2
+[2025.08.29-11.38.36:768][751]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 1
+[2025.08.29-11.38.36:768][751]LogShaderCompilers: Display: Started 3 'Local' shader compile jobs with 'ForceLocal' priority
+[2025.08.29-11.38.36:799][751]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 4
+[2025.08.29-11.38.36:799][751]LogShaderCompilers: Display: Submitted 45 shader compile jobs with 'Normal' priority
+[2025.08.29-11.38.36:799][751]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 44
+[2025.08.29-11.38.36:799][751]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 43
+[2025.08.29-11.38.36:799][751]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 42
+[2025.08.29-11.38.36:799][751]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 41
+[2025.08.29-11.38.36:799][751]LogShaderCompilers: Display: Started 5 'Local' shader compile jobs with 'Normal' priority
+[2025.08.29-11.38.36:863][753]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2025.08.29-11.38.37:354][767]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 5
+[2025.08.29-11.38.37:354][767]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2025.08.29-11.38.37:354][767]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 4
+[2025.08.29-11.38.37:354][767]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2025.08.29-11.38.37:355][767]MaterialEditorStats: Texture samplers: 1/16
+[2025.08.29-11.38.37:355][767]MaterialEditorStats: Texture Lookups (Est.): VS(1), PS(5)
+[2025.08.29-11.38.37:355][767]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2025.08.29-11.38.37:362][767]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 3
+[2025.08.29-11.38.37:362][767]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2025.08.29-11.38.37:367][767]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 2
+[2025.08.29-11.38.37:367][767]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2025.08.29-11.38.37:467][770]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 1
+[2025.08.29-11.38.37:467][770]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2025.08.29-11.38.37:467][770]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 37
+[2025.08.29-11.38.37:467][770]LogShaderCompilers: Display: Started 5 'Local' shader compile jobs with 'Normal' priority
+[2025.08.29-11.38.37:641][773]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 32
+[2025.08.29-11.38.37:641][773]LogShaderCompilers: Display: Started 5 'Local' shader compile jobs with 'Normal' priority
+[2025.08.29-11.38.37:644][773]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 27
+[2025.08.29-11.38.37:644][773]LogShaderCompilers: Display: Started 4 'Local' shader compile jobs with 'Normal' priority
+[2025.08.29-11.38.37:717][775]MaterialEditorStats: Texture samplers: 7/16
+[2025.08.29-11.38.37:717][775]MaterialEditorStats: Texture Lookups (Est.): VS(1), PS(5)
+[2025.08.29-11.38.37:717][775]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2025.08.29-11.38.37:862][778]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 23
+[2025.08.29-11.38.37:863][778]LogShaderCompilers: Display: Started 3 'Local' shader compile jobs with 'Normal' priority
+[2025.08.29-11.38.37:878][778]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 20
+[2025.08.29-11.38.37:878][778]LogShaderCompilers: Display: Started 3 'Local' shader compile jobs with 'Normal' priority
+[2025.08.29-11.38.37:933][779]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 17
+[2025.08.29-11.38.37:933][779]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 14
+[2025.08.29-11.38.37:933][779]LogShaderCompilers: Display: Started 6 'Local' shader compile jobs with 'Normal' priority
+[2025.08.29-11.38.37:986][779]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 11
+[2025.08.29-11.38.37:986][779]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Normal' priority
+[2025.08.29-11.38.38:324][786]LogMaterialEditor: Applying material omurcekmat
+[2025.08.29-11.38.39:354][786]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 9
+[2025.08.29-11.38.39:354][786]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Normal' priority
+[2025.08.29-11.38.39:354][786]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 7
+[2025.08.29-11.38.39:354][786]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2025.08.29-11.38.39:354][786]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 6
+[2025.08.29-11.38.39:354][786]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2025.08.29-11.38.39:402][786]LogMaterial: Display: Missing cached shadermap for omurcekmat in PCD3D_SM5, Default, SM5 (DDC key hash: 9B35731352FC59BC13CC0974423788C5F9C00924), compiling. 
+[2025.08.29-11.38.39:495][786]LogMaterial: Display: Missing cached shadermap for omurcekmat in PCD3D_SM5, Default, SM5 (DDC key hash: 85B97BF1B07CD540F09064A4840071947D411442), compiling. 
+[2025.08.29-11.38.39:670][786]LogShaderCompilers: Display: Submitted 5 shader compile jobs with 'Normal' priority
+[2025.08.29-11.38.39:678][786]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 5
+[2025.08.29-11.38.39:678][786]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 4
+[2025.08.29-11.38.39:678][786]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 3
+[2025.08.29-11.38.39:678][786]LogShaderCompilers: Display: Started 3 'Local' shader compile jobs with 'Normal' priority
+[2025.08.29-11.38.39:678][786]LogUObjectHash: Compacting FUObjectHashTables data took   5.79ms
+[2025.08.29-11.38.39:694][786]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 2
+[2025.08.29-11.38.39:694][786]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 1
+[2025.08.29-11.38.39:694][786]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Normal' priority
+[2025.08.29-11.38.39:694][786]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 1
+[2025.08.29-11.38.39:694][786]LogShaderCompilers: Display: Submitted 1 shader compile jobs with 'ForceLocal' priority
+[2025.08.29-11.38.40:143][786]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2025.08.29-11.38.40:214][786]LogUObjectHash: Compacting FUObjectHashTables data took   1.35ms
+[2025.08.29-11.38.40:277][786]MaterialEditorStats: Texture samplers: 5/16
+[2025.08.29-11.38.40:277][786]MaterialEditorStats: Texture Lookups (Est.): VS(1), PS(5)
+[2025.08.29-11.38.40:277][786]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2025.08.29-11.38.40:362][787]LogShaderCompilers: Display: Submitted 25 shader compile jobs with 'Normal' priority
+[2025.08.29-11.38.40:362][787]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 25
+[2025.08.29-11.38.40:362][787]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 21
+[2025.08.29-11.38.40:362][787]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 17
+[2025.08.29-11.38.40:362][787]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 13
+[2025.08.29-11.38.40:362][787]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 9
+[2025.08.29-11.38.40:362][787]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 5
+[2025.08.29-11.38.40:362][787]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 1
+[2025.08.29-11.38.40:362][787]LogShaderCompilers: Display: Started 25 'Local' shader compile jobs with 'Normal' priority
+[2025.08.29-11.38.40:445][788]MaterialEditorStats: Texture samplers: 7/16
+[2025.08.29-11.38.40:446][788]MaterialEditorStats: Texture Lookups (Est.): VS(1), PS(5)
+[2025.08.29-11.38.40:446][788]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2025.08.29-11.38.41:552][826]LogMaterialEditor: Saving and Compiling material omurcekmat
+[2025.08.29-11.38.42:053][826]LogSavePackage: Moving '../../../../../../Users/Melih/Documents/GitHub/MyProject/platkasoyun/Saved/omurcekmatCEFAF8F54174018B3A3D72A480A0D5B6.tmp' to '../../../../../../Users/Melih/Documents/GitHub/MyProject/platkasoyun/Content/SideScrollerBP/BuildFiles/Materials/omurcekmat/omurcekmat.uasset'
+[2025.08.29-11.38.42:074][826]AssetCheck: New page: Asset Save: omurcekmat
+[2025.08.29-11.38.42:074][826]LogContentValidation: Display: Validating Material /Game/SideScrollerBP/BuildFiles/Materials/omurcekmat/omurcekmat.omurcekmat
+[2025.08.29-11.38.42:075][826]MaterialEditorStats: Base pass shader: 153 instructions
+[2025.08.29-11.38.42:075][826]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 234 instructions
+[2025.08.29-11.38.42:075][826]MaterialEditorStats: Base pass vertex shader: 52 instructions
+[2025.08.29-11.38.42:075][826]MaterialEditorStats: Base pass vertex shader: 161 instructions
+[2025.08.29-11.38.42:075][826]MaterialEditorStats: Texture samplers: 8/16
+[2025.08.29-11.38.42:075][826]MaterialEditorStats: Texture Lookups (Est.): VS(1), PS(5)
+[2025.08.29-11.38.42:075][826]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2025.08.29-11.38.44:948][997]LogSlate: Window 'omurcekmat' being destroyed
+[2025.08.29-11.38.44:984][997]LogWorld: UWorld::CleanupWorld for World_41, bSessionEnded=true, bCleanupResources=true
+[2025.08.29-11.38.44:984][997]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.08.29-11.39.05:917][206]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/SideScrollerBP/Blueprints/healthchest.healthchest
+[2025.08.29-11.39.11:871][499]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/SideScrollerBP/BuildFiles/Materials/firstaid.firstaid
+[2025.08.29-11.39.11:873][499]LogMaterial: Display: Missing cached shadermap for firstaid in PCD3D_SM5, Default, SM5 (DDC key hash: B6369C2E3BB4F40AE7CFBF27ACE35E68EE8CFCDF), compiling. 
+[2025.08.29-11.39.11:874][499]LogMaterial: Warning: [AssetLog] /Engine/Transient.firstaid (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2025.08.29-11.39.11:874][499]LogMaterial: Display: 	(Node TextureSample) TextureSample> Sampler type is Color, should be Linear Color for /Game/SideScrollerBP/BuildFiles/Materials/trimsheetscififirstaidbox_testuvmaterial_OcclusionRoughnessMetallic.trimsheetscififirstaidbox_testuvmaterial_OcclusionRoughnessMetallic
+[2025.08.29-11.39.11:960][499]LogMaterial: Display: Missing cached shadermap for firstaid in PCD3D_SM5, Default, SM5 (DDC key hash: 4E6580A758458DB58B7F53836122403673200419), compiling. 
+[2025.08.29-11.39.11:961][499]LogMaterial: Warning: [AssetLog] /Engine/Transient.firstaid (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2025.08.29-11.39.11:961][499]LogMaterial: Display: 	(Node TextureSample) TextureSample> Sampler type is Color, should be Linear Color for /Game/SideScrollerBP/BuildFiles/Materials/trimsheetscififirstaidbox_testuvmaterial_OcclusionRoughnessMetallic.trimsheetscififirstaidbox_testuvmaterial_OcclusionRoughnessMetallic
+[2025.08.29-11.39.11:963][499]LogMaterial: Display: Missing cached shadermap for firstaid in PCD3D_SM5, Default, SM5 (DDC key hash: 5DF5D7B2F3DAD8ECD32E4E10C2B50B8AD2064B3F), compiling. 
+[2025.08.29-11.39.11:963][499]LogMaterial: Warning: [AssetLog] /Engine/Transient.firstaid (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2025.08.29-11.39.11:963][499]LogMaterial: Display: 	(Node TextureSample) TextureSample> Sampler type is Color, should be Linear Color for /Game/SideScrollerBP/BuildFiles/Materials/trimsheetscififirstaidbox_testuvmaterial_OcclusionRoughnessMetallic.trimsheetscififirstaidbox_testuvmaterial_OcclusionRoughnessMetallic
+[2025.08.29-11.39.11:965][499]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_0 in PCD3D_SM5, Default, SM5 (DDC key hash: AFFBD2840D0F73227C4F473AE1B2A9009F0011C0), compiling. 
+[2025.08.29-11.39.11:967][499]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_1 in PCD3D_SM5, Default, SM5 (DDC key hash: A16E3ADAD65B6D1AF7911BC0FD4E71CC2F0C6CDA), compiling. 
+[2025.08.29-11.39.11:967][499]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_2 in PCD3D_SM5, Default, SM5 (DDC key hash: 7D31AD033A0044288F478D67CA5C57EEA7FD0294), compiling. 
+[2025.08.29-11.39.11:996][499]MaterialEditorStats: Error: [SM5] (Node TextureSample) TextureSample> Sampler type is Color, should be Linear Color for /Game/SideScrollerBP/BuildFiles/Materials/trimsheetscififirstaidbox_testuvmaterial_OcclusionRoughnessMetallic.trimsheetscififirstaidbox_testuvmaterial_OcclusionRoughnessMetallic
+[2025.08.29-11.39.12:242][510]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2025.08.29-11.39.12:243][510]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 2
+[2025.08.29-11.39.12:243][510]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 1
+[2025.08.29-11.39.12:243][510]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2025.08.29-11.39.14:621][637]LogMaterial: Display: Missing cached shadermap for firstaid in PCD3D_SM5, Default, SM5 (DDC key hash: 0D3D99BB3C68425F22DA249229654A03B24F8A84), compiling. 
+[2025.08.29-11.39.14:622][637]LogMaterial: Warning: [AssetLog] /Engine/Transient.firstaid (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2025.08.29-11.39.14:622][637]LogMaterial: Display: 	(Node TextureSample) TextureSample> Sampler type is Color, should be Linear Color for /Game/SideScrollerBP/BuildFiles/Materials/trimsheetscififirstaidbox_testuvmaterial_OcclusionRoughnessMetallic.trimsheetscififirstaidbox_testuvmaterial_OcclusionRoughnessMetallic
+[2025.08.29-11.39.17:049][780]LogMaterial: Display: Missing cached shadermap for firstaid in PCD3D_SM5, Default, SM5 (DDC key hash: 85224823FFB5D701CC63C523C44845A267B2FBFB), compiling. 
+[2025.08.29-11.39.17:051][780]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_1 in PCD3D_SM5, Default, SM5 (DDC key hash: 99F6CCA5F3D66E3481D936D491B94159C0E88CB9), compiling. 
+[2025.08.29-11.39.17:054][780]LogMaterial: Display: Missing cached shadermap for firstaid in PCD3D_SM5, Default, SM5 (DDC key hash: 92D391FA28FD33C73BC24E0CE22662CA75FB4CC3), compiling. 
+[2025.08.29-11.39.17:064][780]MaterialEditorStats: Texture samplers: 0/16
+[2025.08.29-11.39.17:064][780]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.08.29-11.39.17:064][780]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2025.08.29-11.39.17:073][780]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2025.08.29-11.39.17:079][780]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 2
+[2025.08.29-11.39.17:079][780]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 1
+[2025.08.29-11.39.17:079][780]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2025.08.29-11.39.17:081][780]LogShaderCompilers: Display: Submitted 8 shader compile jobs with 'Normal' priority
+[2025.08.29-11.39.17:085][780]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 8
+[2025.08.29-11.39.17:085][780]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 6
+[2025.08.29-11.39.17:085][780]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 4
+[2025.08.29-11.39.17:085][780]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 2
+[2025.08.29-11.39.17:085][780]LogShaderCompilers: Display: Started 8 'Local' shader compile jobs with 'Normal' priority
+[2025.08.29-11.39.17:132][782]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2025.08.29-11.39.17:132][782]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 2
+[2025.08.29-11.39.17:132][782]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 1
+[2025.08.29-11.39.17:132][782]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2025.08.29-11.39.17:889][808]MaterialEditorStats: Texture samplers: 5/16
+[2025.08.29-11.39.17:889][808]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.08.29-11.39.17:889][808]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2025.08.29-11.39.18:159][820]LogMaterialEditor: Applying material firstaid
+[2025.08.29-11.39.18:544][820]LogMaterial: Display: Missing cached shadermap for firstaid in PCD3D_SM5, Default, SM5 (DDC key hash: BB544301526564023E086D07B4DDCF70561112F1), compiling. 
+[2025.08.29-11.39.18:614][820]LogMaterial: Display: Missing cached shadermap for firstaid in PCD3D_SM5, Default, SM5 (DDC key hash: C252846A4F7A5F8E0FA4EA81455FD5CFBFACB8D8), compiling. 
+[2025.08.29-11.39.18:687][820]LogShaderCompilers: Display: Submitted 6 shader compile jobs with 'Normal' priority
+[2025.08.29-11.39.18:688][820]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 6
+[2025.08.29-11.39.18:688][820]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 5
+[2025.08.29-11.39.18:688][820]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 4
+[2025.08.29-11.39.18:688][820]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 3
+[2025.08.29-11.39.18:688][820]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 2
+[2025.08.29-11.39.18:688][820]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 1
+[2025.08.29-11.39.18:688][820]LogShaderCompilers: Display: Started 6 'Local' shader compile jobs with 'Normal' priority
+[2025.08.29-11.39.18:735][820]LogUObjectHash: Compacting FUObjectHashTables data took   5.88ms
+[2025.08.29-11.39.19:129][820]LogUObjectHash: Compacting FUObjectHashTables data took   5.34ms
+[2025.08.29-11.39.19:294][828]MaterialEditorStats: Texture samplers: 6/16
+[2025.08.29-11.39.19:294][828]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.08.29-11.39.19:294][828]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2025.08.29-11.39.19:326][829]MaterialEditorStats: Base pass shader: 128 instructions
+[2025.08.29-11.39.19:326][829]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 206 instructions
+[2025.08.29-11.39.19:326][829]MaterialEditorStats: Base pass vertex shader: 46 instructions
+[2025.08.29-11.39.19:326][829]MaterialEditorStats: Texture samplers: 6/16
+[2025.08.29-11.39.19:326][829]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.08.29-11.39.19:326][829]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2025.08.29-11.39.20:900][912]LogMaterialEditor: Saving and Compiling material firstaid
+[2025.08.29-11.39.20:954][912]LogSavePackage: Moving '../../../../../../Users/Melih/Documents/GitHub/MyProject/platkasoyun/Saved/firstaidA5BF8A41478FAE902E2741A34DF01E22.tmp' to '../../../../../../Users/Melih/Documents/GitHub/MyProject/platkasoyun/Content/SideScrollerBP/BuildFiles/Materials/firstaid.uasset'
+[2025.08.29-11.39.20:994][912]AssetCheck: New page: Asset Save: firstaid
+[2025.08.29-11.39.20:994][912]LogContentValidation: Display: Validating Material /Game/SideScrollerBP/BuildFiles/Materials/firstaid.firstaid
+[2025.08.29-11.39.22:115][968]LogWorld: UWorld::CleanupWorld for World_43, bSessionEnded=true, bCleanupResources=true
+[2025.08.29-11.39.22:115][968]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.08.29-11.39.25:349][150]LogSlate: Window 'healthchest' being destroyed
+[2025.08.29-11.39.25:398][150]LogWorld: UWorld::CleanupWorld for World_42, bSessionEnded=true, bCleanupResources=true
+[2025.08.29-11.39.25:398][150]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.08.29-11.39.34:874][671]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/SideScrollerBP/BuildFiles/untitled_Cylinder.untitled_Cylinder
+[2025.08.29-11.39.36:878][735]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/SideScrollerBP/BuildFiles/Materials/labmat.labmat
+[2025.08.29-11.39.36:880][735]LogMaterial: Display: Missing cached shadermap for labmat in PCD3D_SM5, Default, SM5 (DDC key hash: 5C6E8E19B55F62B2E6E76B0A4AFDAF72F83D79AC), compiling. 
+[2025.08.29-11.39.36:881][735]LogMaterial: Warning: [AssetLog] /Engine/Transient.labmat (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2025.08.29-11.39.36:881][735]LogMaterial: Display: 	(Node TextureSample) TextureSample> Sampler type is Color, should be Linear Color for /Game/SideScrollerBP/BuildFiles/Materials/untitled_testuvmaterial_OcclusionRoughnessMetallic.untitled_testuvmaterial_OcclusionRoughnessMetallic
+[2025.08.29-11.39.36:965][735]LogMaterial: Display: Missing cached shadermap for labmat in PCD3D_SM5, Default, SM5 (DDC key hash: 655929FE30077869AB6C48D13E46CF2F98A999A1), compiling. 
+[2025.08.29-11.39.36:965][735]LogMaterial: Warning: [AssetLog] /Engine/Transient.labmat (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2025.08.29-11.39.36:965][735]LogMaterial: Display: 	(Node TextureSample) TextureSample> Sampler type is Color, should be Linear Color for /Game/SideScrollerBP/BuildFiles/Materials/untitled_testuvmaterial_OcclusionRoughnessMetallic.untitled_testuvmaterial_OcclusionRoughnessMetallic
+[2025.08.29-11.39.36:967][735]LogMaterial: Display: Missing cached shadermap for labmat in PCD3D_SM5, Default, SM5 (DDC key hash: AB921BF2AF8FDE1978017F2FC89A4C20B3A4475F), compiling. 
+[2025.08.29-11.39.36:968][735]LogMaterial: Warning: [AssetLog] /Engine/Transient.labmat (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2025.08.29-11.39.36:968][735]LogMaterial: Display: 	(Node TextureSample) TextureSample> Sampler type is Color, should be Linear Color for /Game/SideScrollerBP/BuildFiles/Materials/untitled_testuvmaterial_OcclusionRoughnessMetallic.untitled_testuvmaterial_OcclusionRoughnessMetallic
+[2025.08.29-11.39.36:970][735]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 210B8B6701115188CDF0660D0B3CFA9D2D8EAC17), compiling. 
+[2025.08.29-11.39.36:972][735]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_2 in PCD3D_SM5, Default, SM5 (DDC key hash: A52D3B9E5A9920E62A374AFB222282BE7E0047A3), compiling. 
+[2025.08.29-11.39.36:973][735]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_3 in PCD3D_SM5, Default, SM5 (DDC key hash: 0E62A1C70B4693428840E4C3E1B57BE0D81FCD53), compiling. 
+[2025.08.29-11.39.36:975][735]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_1 in PCD3D_SM5, Default, SM5 (DDC key hash: 1F04EA5F76EEFAC4E08000A4CE94C9994DD24F45), compiling. 
+[2025.08.29-11.39.37:003][735]MaterialEditorStats: Error: [SM5] (Node TextureSample) TextureSample> Sampler type is Color, should be Linear Color for /Game/SideScrollerBP/BuildFiles/Materials/untitled_testuvmaterial_OcclusionRoughnessMetallic.untitled_testuvmaterial_OcclusionRoughnessMetallic
+[2025.08.29-11.39.37:211][744]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2025.08.29-11.39.37:211][744]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 2
+[2025.08.29-11.39.37:211][744]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 1
+[2025.08.29-11.39.37:211][744]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2025.08.29-11.39.38:157][789]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2025.08.29-11.39.38:157][789]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 2
+[2025.08.29-11.39.38:157][789]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 1
+[2025.08.29-11.39.38:157][789]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2025.08.29-11.39.38:179][790]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2025.08.29-11.39.38:179][790]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 2
+[2025.08.29-11.39.38:180][790]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 1
+[2025.08.29-11.39.38:180][790]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2025.08.29-11.39.40:376][903]LogMaterial: Display: Missing cached shadermap for labmat in PCD3D_SM5, Default, SM5 (DDC key hash: 1542A816C84FFB511743A17C9BE1DCFCB1889B0D), compiling. 
+[2025.08.29-11.39.40:377][903]LogMaterial: Warning: [AssetLog] /Engine/Transient.labmat (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2025.08.29-11.39.40:377][903]LogMaterial: Display: 	(Node TextureSample) TextureSample> Sampler type is Color, should be Linear Color for /Game/SideScrollerBP/BuildFiles/Materials/untitled_testuvmaterial_OcclusionRoughnessMetallic.untitled_testuvmaterial_OcclusionRoughnessMetallic
+[2025.08.29-11.39.43:190][ 69]LogMaterial: Display: Missing cached shadermap for labmat in PCD3D_SM5, Default, SM5 (DDC key hash: D513B6DAC7935AB13B278B19B073903AE88F780F), compiling. 
+[2025.08.29-11.39.43:192][ 69]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_2 in PCD3D_SM5, Default, SM5 (DDC key hash: 5A4E3C50C86AB8A19D682CA61A0C898D3B1C4D5B), compiling. 
+[2025.08.29-11.39.43:195][ 69]LogMaterial: Display: Missing cached shadermap for labmat in PCD3D_SM5, Default, SM5 (DDC key hash: F239C79E92996D3E0308AA5B2D40338664D9651D), compiling. 
+[2025.08.29-11.39.43:204][ 69]MaterialEditorStats: Texture samplers: 0/16
+[2025.08.29-11.39.43:204][ 69]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(4)
+[2025.08.29-11.39.43:204][ 69]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2025.08.29-11.39.43:217][ 69]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2025.08.29-11.39.43:223][ 69]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 2
+[2025.08.29-11.39.43:223][ 69]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 1
+[2025.08.29-11.39.43:223][ 69]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2025.08.29-11.39.43:233][ 69]LogShaderCompilers: Display: Submitted 10 shader compile jobs with 'Normal' priority
+[2025.08.29-11.39.43:233][ 69]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 10
+[2025.08.29-11.39.43:233][ 69]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 8
+[2025.08.29-11.39.43:233][ 69]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 6
+[2025.08.29-11.39.43:233][ 69]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 4
+[2025.08.29-11.39.43:233][ 69]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 2
+[2025.08.29-11.39.43:233][ 69]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2025.08.29-11.39.43:289][ 71]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2025.08.29-11.39.43:289][ 71]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 2
+[2025.08.29-11.39.43:289][ 71]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2025.08.29-11.39.43:815][ 87]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 1
+[2025.08.29-11.39.43:815][ 87]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2025.08.29-11.39.44:098][ 96]MaterialEditorStats: Texture samplers: 6/16
+[2025.08.29-11.39.44:098][ 96]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(4)
+[2025.08.29-11.39.44:098][ 96]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2025.08.29-11.39.45:087][140]MaterialEditorStats: Base pass shader: 132 instructions
+[2025.08.29-11.39.45:087][140]MaterialEditorStats: Base pass shader with Surface Lightmap: 161 instructions
+[2025.08.29-11.39.45:087][140]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 208 instructions
+[2025.08.29-11.39.45:087][140]MaterialEditorStats: Base pass vertex shader: 46 instructions
+[2025.08.29-11.39.45:087][140]MaterialEditorStats: Texture samplers: 6/16
+[2025.08.29-11.39.45:087][140]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(4)
+[2025.08.29-11.39.45:087][140]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2025.08.29-11.39.47:356][269]LogMaterialEditor: Applying material labmat
+[2025.08.29-11.39.47:705][269]LogMaterial: Display: Missing cached shadermap for labmat in PCD3D_SM5, Default, SM5 (DDC key hash: B51EBCCD67105507A26C98F897E73104E047BCA4), compiling. 
+[2025.08.29-11.39.47:755][269]LogMaterial: Display: Missing cached shadermap for labmat in PCD3D_SM5, Default, SM5 (DDC key hash: 4CABC9B24F2E075E915E4DA757AF0513D851E796), compiling. 
+[2025.08.29-11.39.47:814][269]LogShaderCompilers: Display: Submitted 1 shader compile jobs with 'ForceLocal' priority
+[2025.08.29-11.39.47:814][269]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 1
+[2025.08.29-11.39.47:814][269]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2025.08.29-11.39.47:814][269]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2025.08.29-11.39.47:814][269]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 2
+[2025.08.29-11.39.47:814][269]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 1
+[2025.08.29-11.39.47:814][269]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2025.08.29-11.39.47:882][269]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 2
+[2025.08.29-11.39.47:882][269]LogShaderCompilers: Display: Submitted 10 shader compile jobs with 'Normal' priority
+[2025.08.29-11.39.47:882][269]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 9
+[2025.08.29-11.39.47:882][269]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 8
+[2025.08.29-11.39.47:882][269]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 7
+[2025.08.29-11.39.47:882][269]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 6
+[2025.08.29-11.39.47:882][269]LogShaderCompilers: Display: Started 5 'Local' shader compile jobs with 'Normal' priority
+[2025.08.29-11.39.47:962][269]LogUObjectHash: Compacting FUObjectHashTables data took  11.05ms
+[2025.08.29-11.39.48:714][269]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 1
+[2025.08.29-11.39.48:714][269]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2025.08.29-11.39.48:714][269]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 4
+[2025.08.29-11.39.48:714][269]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2025.08.29-11.39.48:714][269]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 3
+[2025.08.29-11.39.48:714][269]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2025.08.29-11.39.48:714][269]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 2
+[2025.08.29-11.39.48:714][269]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2025.08.29-11.39.48:714][269]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 1
+[2025.08.29-11.39.48:714][269]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2025.08.29-11.39.48:793][269]LogUObjectHash: Compacting FUObjectHashTables data took   7.43ms
+[2025.08.29-11.39.48:812][269]MaterialEditorStats: Texture samplers: 6/16
+[2025.08.29-11.39.48:812][269]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(4)
+[2025.08.29-11.39.48:812][269]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2025.08.29-11.39.48:996][278]MaterialEditorStats: Texture samplers: 7/16
+[2025.08.29-11.39.48:996][278]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(4)
+[2025.08.29-11.39.48:996][278]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2025.08.29-11.39.49:063][280]MaterialEditorStats: Base pass shader: 132 instructions
+[2025.08.29-11.39.49:063][280]MaterialEditorStats: Base pass shader with Surface Lightmap: 161 instructions
+[2025.08.29-11.39.49:063][280]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 208 instructions
+[2025.08.29-11.39.49:063][280]MaterialEditorStats: Base pass vertex shader: 46 instructions
+[2025.08.29-11.39.49:063][280]MaterialEditorStats: Texture samplers: 7/16
+[2025.08.29-11.39.49:063][280]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(4)
+[2025.08.29-11.39.49:063][280]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2025.08.29-11.39.49:738][317]LogMaterialEditor: Saving and Compiling material labmat
+[2025.08.29-11.39.49:784][317]LogSavePackage: Moving '../../../../../../Users/Melih/Documents/GitHub/MyProject/platkasoyun/Saved/labmat8FD00DBC43057BBB6CE392B0B574F8B9.tmp' to '../../../../../../Users/Melih/Documents/GitHub/MyProject/platkasoyun/Content/SideScrollerBP/BuildFiles/Materials/labmat.uasset'
+[2025.08.29-11.39.49:804][317]AssetCheck: New page: Asset Save: labmat
+[2025.08.29-11.39.49:804][317]LogContentValidation: Display: Validating Material /Game/SideScrollerBP/BuildFiles/Materials/labmat.labmat
+[2025.08.29-11.39.51:331][396]LogWorld: UWorld::CleanupWorld for World_45, bSessionEnded=true, bCleanupResources=true
+[2025.08.29-11.39.51:331][396]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.08.29-11.39.57:949][785]LogSlate: Window 'untitled_Cylinder' being destroyed
+[2025.08.29-11.39.58:054][785]LogWorld: UWorld::CleanupWorld for World_44, bSessionEnded=true, bCleanupResources=true
+[2025.08.29-11.39.58:054][785]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.08.29-11.40.23:641][274]LogTemp: Repeating last play command: Selected Viewport
+[2025.08.29-11.40.23:650][274]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.08.29-11.40.23:650][274]PIE: New page: PIE session: MainMenuLevel (29 Aug 2025, 17.40.23)
+[2025.08.29-11.40.23:650][274]LogPlayLevel: Creating play world package: /Game/SideScrollerBP/Maps/UEDPIE_0_MainMenuLevel
+[2025.08.29-11.40.23:653][274]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001653s)
+[2025.08.29-11.40.23:654][274]LogAIModule: Creating AISystem for world MainMenuLevel
+[2025.08.29-11.40.23:654][274]LogPlayLevel: PIE: World Init took: (0.001175s)
+[2025.08.29-11.40.23:654][274]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/SideScrollerBP/Maps/MainMenuLevel.MainMenuLevel to /Game/SideScrollerBP/Maps/UEDPIE_0_MainMenuLevel.MainMenuLevel (0.002962s)
+[2025.08.29-11.40.23:711][274]LogUObjectHash: Compacting FUObjectHashTables data took   7.54ms
+[2025.08.29-11.40.23:714][274]LogAudio: Display: Creating Audio Device:                 Id: 26, Scope: Unique, Realtime: True
+[2025.08.29-11.40.23:714][274]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.08.29-11.40.23:714][274]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.08.29-11.40.23:714][274]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.08.29-11.40.23:714][274]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.08.29-11.40.23:714][274]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2025.08.29-11.40.23:714][274]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.08.29-11.40.23:714][274]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2025.08.29-11.40.23:714][274]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.08.29-11.40.23:715][274]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.08.29-11.40.23:715][274]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.08.29-11.40.23:715][274]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.08.29-11.40.23:715][274]LogAudioMixer: Display: Initializing audio mixer.
+[2025.08.29-11.40.23:718][274]LogAudioMixer: Display: 0: FrontLeft
+[2025.08.29-11.40.23:718][274]LogAudioMixer: Display: 1: FrontRight
+[2025.08.29-11.40.23:860][274]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2025.08.29-11.40.23:860][274]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.08.29-11.40.23:860][274]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.08.29-11.40.23:861][274]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.08.29-11.40.23:861][274]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2025.08.29-11.40.23:861][274]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2025.08.29-11.40.23:861][274]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2025.08.29-11.40.23:864][274]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2025.08.29-11.40.23:864][274]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2025.08.29-11.40.23:864][274]LogInit: FAudioDevice initialized.
+[2025.08.29-11.40.23:864][274]LogAudio: Display: Audio Device (ID: 26) registered with world 'MainMenuLevel'.
+[2025.08.29-11.40.23:873][274]LogLoad: Game class is 'MainMenuGameMode_C'
+[2025.08.29-11.40.23:874][274]LogWorld: Bringing World /Game/SideScrollerBP/Maps/UEDPIE_0_MainMenuLevel.MainMenuLevel up for play (max tick rate 60) at 2025.08.29-14.40.23
+[2025.08.29-11.40.23:874][274]LogWorld: Bringing up level for play took: 0.000342
+[2025.08.29-11.40.23:874][274]LogOnline: OSS: Creating online subsystem instance for: :Context_70
+[2025.08.29-11.40.23:902][274]PIE: Server logged in
+[2025.08.29-11.40.23:903][274]PIE: Play in editor total start time 0,253 seconds.
+[2025.08.29-11.40.24:569][314]LogNet: Browse: /Game/SideScrollerBP/Maps/level1
+[2025.08.29-11.40.24:569][314]LogLoad: LoadMap: /Game/SideScrollerBP/Maps/level1
+[2025.08.29-11.40.24:569][314]LogWorld: BeginTearingDown for /Game/SideScrollerBP/Maps/UEDPIE_0_MainMenuLevel
+[2025.08.29-11.40.24:570][314]LogWorld: UWorld::CleanupWorld for MainMenuLevel, bSessionEnded=true, bCleanupResources=true
+[2025.08.29-11.40.24:570][314]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.08.29-11.40.24:639][314]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.08.29-11.40.24:647][314]LogUObjectHash: Compacting FUObjectHashTables data took   6.38ms
+[2025.08.29-11.40.24:648][314]LogPlayLevel: Creating play world package: /Game/SideScrollerBP/Maps/UEDPIE_0_level1
+[2025.08.29-11.40.24:710][314]LogPlayLevel: PIE: StaticDuplicateObject took: (0.062888s)
+[2025.08.29-11.40.24:711][314]LogAIModule: Creating AISystem for world level1
+[2025.08.29-11.40.24:712][314]LogPlayLevel: PIE: World Init took: (0.001307s)
+[2025.08.29-11.40.24:712][314]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/SideScrollerBP/Maps/level1.level1 to /Game/SideScrollerBP/Maps/UEDPIE_0_level1.level1 (0.064447s)
+[2025.08.29-11.40.24:712][314]LogAudio: Display: Audio Device (ID: 26) registered with world 'level1'.
+[2025.08.29-11.40.24:712][314]LogLoad: Game class is 'SideScrollerGameMode_C'
+[2025.08.29-11.40.24:752][314]LogWorld: Bringing World /Game/SideScrollerBP/Maps/UEDPIE_0_level1.level1 up for play (max tick rate 60) at 2025.08.29-14.40.24
+[2025.08.29-11.40.24:756][314]LogWorld: Bringing up level for play took: 0.043103
+[2025.08.29-11.40.24:758][314]LogNavigation: Warning: Recreating dtNavMesh instance due to saved navmesh origin (X=0.000 Y=11.607 Z=51.944, usually the RecastNavMesh location) not being aligned with tile size (1025 uu) 
+[2025.08.29-11.40.24:771][314]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2025.08.29-11.40.24:773][314]LogLoad: Took 0.203668 seconds to LoadMap(/Game/SideScrollerBP/Maps/UEDPIE_0_level1)
+[2025.08.29-11.40.26:303][401]Cmd: LevelEditor.ToggleImmersive
+[2025.08.29-11.41.36:975][544]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.08.29-11.41.36:975][544]LogWorld: BeginTearingDown for /Game/SideScrollerBP/Maps/UEDPIE_0_level1
+[2025.08.29-11.41.36:976][544]LogWorld: UWorld::CleanupWorld for level1, bSessionEnded=true, bCleanupResources=true
+[2025.08.29-11.41.36:980][544]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.08.29-11.41.37:005][544]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.08.29-11.41.37:017][544]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.08.29-11.41.37:059][544]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.08.29-11.41.37:061][544]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2025.08.29-11.41.37:063][544]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2025.08.29-11.41.37:066][544]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.08.29-11.41.37:078][544]LogUObjectHash: Compacting FUObjectHashTables data took   6.69ms
+[2025.08.29-11.41.37:110][545]LogPlayLevel: Display: Destroying online subsystem :Context_70
+[2025.08.29-11.41.37:241][552]Cmd: SELECT NONE
+[2025.08.29-11.41.39:032][649]LogTemp: Repeating last play command: Selected Viewport
+[2025.08.29-11.41.39:042][649]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.08.29-11.41.39:043][649]PIE: New page: PIE session: MainMenuLevel (29 Aug 2025, 17.41.39)
+[2025.08.29-11.41.39:043][649]LogPlayLevel: Creating play world package: /Game/SideScrollerBP/Maps/UEDPIE_0_MainMenuLevel
+[2025.08.29-11.41.39:044][649]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001646s)
+[2025.08.29-11.41.39:045][649]LogAIModule: Creating AISystem for world MainMenuLevel
+[2025.08.29-11.41.39:046][649]LogPlayLevel: PIE: World Init took: (0.001189s)
+[2025.08.29-11.41.39:046][649]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/SideScrollerBP/Maps/MainMenuLevel.MainMenuLevel to /Game/SideScrollerBP/Maps/UEDPIE_0_MainMenuLevel.MainMenuLevel (0.002972s)
+[2025.08.29-11.41.39:092][649]LogUObjectHash: Compacting FUObjectHashTables data took   6.20ms
+[2025.08.29-11.41.39:094][649]LogAudio: Display: Creating Audio Device:                 Id: 27, Scope: Unique, Realtime: True
+[2025.08.29-11.41.39:094][649]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.08.29-11.41.39:094][649]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.08.29-11.41.39:094][649]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.08.29-11.41.39:094][649]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.08.29-11.41.39:094][649]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2025.08.29-11.41.39:094][649]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.08.29-11.41.39:094][649]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2025.08.29-11.41.39:094][649]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.08.29-11.41.39:094][649]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.08.29-11.41.39:094][649]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.08.29-11.41.39:094][649]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.08.29-11.41.39:094][649]LogAudioMixer: Display: Initializing audio mixer.
+[2025.08.29-11.41.39:098][649]LogAudioMixer: Display: 0: FrontLeft
+[2025.08.29-11.41.39:098][649]LogAudioMixer: Display: 1: FrontRight
+[2025.08.29-11.41.39:241][649]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2025.08.29-11.41.39:242][649]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.08.29-11.41.39:242][649]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.08.29-11.41.39:242][649]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.08.29-11.41.39:242][649]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2025.08.29-11.41.39:243][649]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2025.08.29-11.41.39:243][649]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2025.08.29-11.41.39:244][649]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2025.08.29-11.41.39:244][649]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2025.08.29-11.41.39:244][649]LogInit: FAudioDevice initialized.
+[2025.08.29-11.41.39:244][649]LogAudio: Display: Audio Device (ID: 27) registered with world 'MainMenuLevel'.
+[2025.08.29-11.41.39:258][649]LogLoad: Game class is 'MainMenuGameMode_C'
+[2025.08.29-11.41.39:259][649]LogWorld: Bringing World /Game/SideScrollerBP/Maps/UEDPIE_0_MainMenuLevel.MainMenuLevel up for play (max tick rate 60) at 2025.08.29-14.41.39
+[2025.08.29-11.41.39:259][649]LogWorld: Bringing up level for play took: 0.000367
+[2025.08.29-11.41.39:259][649]LogOnline: OSS: Creating online subsystem instance for: :Context_71
+[2025.08.29-11.41.39:288][649]PIE: Server logged in
+[2025.08.29-11.41.39:289][649]PIE: Play in editor total start time 0,247 seconds.
+[2025.08.29-11.41.40:996][750]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.08.29-11.41.40:996][750]LogWorld: BeginTearingDown for /Game/SideScrollerBP/Maps/UEDPIE_0_MainMenuLevel
+[2025.08.29-11.41.40:996][750]LogWorld: UWorld::CleanupWorld for MainMenuLevel, bSessionEnded=true, bCleanupResources=true
+[2025.08.29-11.41.40:997][750]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.08.29-11.41.41:008][750]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.08.29-11.41.41:018][750]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.08.29-11.41.41:059][750]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.08.29-11.41.41:060][750]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2025.08.29-11.41.41:061][750]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2025.08.29-11.41.41:072][750]LogUObjectHash: Compacting FUObjectHashTables data took   6.37ms
+[2025.08.29-11.41.41:097][751]LogPlayLevel: Display: Destroying online subsystem :Context_71
+[2025.08.29-11.41.41:694][781]LogUObjectHash: Compacting FUObjectHashTables data took   6.23ms
+[2025.08.29-11.41.41:702][781]LogSavePackage: Moving '../../../../../../Users/Melih/Documents/GitHub/MyProject/platkasoyun/Saved/MainMenuLevel19B1FDFA40D1AB9F3D5BCB9342B72266.tmp' to '../../../../../../Users/Melih/Documents/GitHub/MyProject/platkasoyun/Content/SideScrollerBP/Maps/MainMenuLevel.umap'
+[2025.08.29-11.41.41:746][781]AssetCheck: New page: Asset Save: MainMenuLevel
+[2025.08.29-11.41.41:746][781]LogContentValidation: Display: Validating World /Game/SideScrollerBP/Maps/MainMenuLevel.MainMenuLevel
