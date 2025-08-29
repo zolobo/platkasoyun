@@ -3129,3 +3129,642 @@ Script call stack:
 [2025.08.29-11.15.19:819][816]LogSavePackage: Moving '../../../../../../Users/Melih/Documents/GitHub/MyProject/platkasoyun/Saved/camerashake532D66C24F70BA5ECC567C9457B01E9C.tmp' to '../../../../../../Users/Melih/Documents/GitHub/MyProject/platkasoyun/Content/SideScrollerBP/Blueprints/camerashake.uasset'
 [2025.08.29-11.15.19:836][816]AssetCheck: New page: Asset Save: camerashake
 [2025.08.29-11.15.19:836][816]LogContentValidation: Display: Validating Blueprint /Game/SideScrollerBP/Blueprints/camerashake.camerashake
+[2025.08.29-11.16.30:066][471]LogEditorViewport: Clicking Background
+[2025.08.29-11.16.30:660][505]LogTemp: Repeating last play command: Selected Viewport
+[2025.08.29-11.16.30:670][505]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.08.29-11.16.30:670][505]PIE: New page: PIE session: MainMenuLevel (29 Aug 2025, 17.16.30)
+[2025.08.29-11.16.30:670][505]LogPlayLevel: Creating play world package: /Game/SideScrollerBP/Maps/UEDPIE_0_MainMenuLevel
+[2025.08.29-11.16.30:671][505]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001506s)
+[2025.08.29-11.16.30:672][505]LogAIModule: Creating AISystem for world MainMenuLevel
+[2025.08.29-11.16.30:673][505]LogPlayLevel: PIE: World Init took: (0.001222s)
+[2025.08.29-11.16.30:673][505]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/SideScrollerBP/Maps/MainMenuLevel.MainMenuLevel to /Game/SideScrollerBP/Maps/UEDPIE_0_MainMenuLevel.MainMenuLevel (0.002855s)
+[2025.08.29-11.16.30:715][505]LogUObjectHash: Compacting FUObjectHashTables data took   6.29ms
+[2025.08.29-11.16.30:716][505]LogAudio: Display: Creating Audio Device:                 Id: 17, Scope: Unique, Realtime: True
+[2025.08.29-11.16.30:716][505]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.08.29-11.16.30:716][505]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.08.29-11.16.30:716][505]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.08.29-11.16.30:716][505]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.08.29-11.16.30:716][505]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2025.08.29-11.16.30:716][505]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.08.29-11.16.30:716][505]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2025.08.29-11.16.30:716][505]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.08.29-11.16.30:716][505]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.08.29-11.16.30:716][505]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.08.29-11.16.30:716][505]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.08.29-11.16.30:716][505]LogAudioMixer: Display: Initializing audio mixer.
+[2025.08.29-11.16.30:720][505]LogAudioMixer: Display: 0: FrontLeft
+[2025.08.29-11.16.30:720][505]LogAudioMixer: Display: 1: FrontRight
+[2025.08.29-11.16.30:864][505]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2025.08.29-11.16.30:864][505]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.08.29-11.16.30:864][505]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.08.29-11.16.30:864][505]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.08.29-11.16.30:865][505]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2025.08.29-11.16.30:865][505]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2025.08.29-11.16.30:865][505]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2025.08.29-11.16.30:866][505]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2025.08.29-11.16.30:866][505]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2025.08.29-11.16.30:866][505]LogInit: FAudioDevice initialized.
+[2025.08.29-11.16.30:866][505]LogAudio: Display: Audio Device (ID: 17) registered with world 'MainMenuLevel'.
+[2025.08.29-11.16.30:877][505]LogLoad: Game class is 'MainMenuGameMode_C'
+[2025.08.29-11.16.30:878][505]LogWorld: Bringing World /Game/SideScrollerBP/Maps/UEDPIE_0_MainMenuLevel.MainMenuLevel up for play (max tick rate 60) at 2025.08.29-14.16.30
+[2025.08.29-11.16.30:878][505]LogWorld: Bringing up level for play took: 0.000356
+[2025.08.29-11.16.30:878][505]LogOnline: OSS: Creating online subsystem instance for: :Context_44
+[2025.08.29-11.16.30:907][505]PIE: Server logged in
+[2025.08.29-11.16.30:908][505]PIE: Play in editor total start time 0,238 seconds.
+[2025.08.29-11.16.31:610][547]LogNet: Browse: /Game/SideScrollerBP/Maps/level1
+[2025.08.29-11.16.31:610][547]LogLoad: LoadMap: /Game/SideScrollerBP/Maps/level1
+[2025.08.29-11.16.31:610][547]LogWorld: BeginTearingDown for /Game/SideScrollerBP/Maps/UEDPIE_0_MainMenuLevel
+[2025.08.29-11.16.31:610][547]LogWorld: UWorld::CleanupWorld for MainMenuLevel, bSessionEnded=true, bCleanupResources=true
+[2025.08.29-11.16.31:610][547]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.08.29-11.16.31:672][547]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.08.29-11.16.31:679][547]LogUObjectHash: Compacting FUObjectHashTables data took   5.26ms
+[2025.08.29-11.16.31:679][547]LogPlayLevel: Creating play world package: /Game/SideScrollerBP/Maps/UEDPIE_0_level1
+[2025.08.29-11.16.31:742][547]LogPlayLevel: PIE: StaticDuplicateObject took: (0.062733s)
+[2025.08.29-11.16.31:743][547]LogAIModule: Creating AISystem for world level1
+[2025.08.29-11.16.31:743][547]LogPlayLevel: PIE: World Init took: (0.001346s)
+[2025.08.29-11.16.31:743][547]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/SideScrollerBP/Maps/level1.level1 to /Game/SideScrollerBP/Maps/UEDPIE_0_level1.level1 (0.064329s)
+[2025.08.29-11.16.31:743][547]LogAudio: Display: Audio Device (ID: 17) registered with world 'level1'.
+[2025.08.29-11.16.31:743][547]LogLoad: Game class is 'SideScrollerGameMode_C'
+[2025.08.29-11.16.31:783][547]LogWorld: Bringing World /Game/SideScrollerBP/Maps/UEDPIE_0_level1.level1 up for play (max tick rate 60) at 2025.08.29-14.16.31
+[2025.08.29-11.16.31:787][547]LogWorld: Bringing up level for play took: 0.043084
+[2025.08.29-11.16.31:789][547]LogNavigation: Warning: Recreating dtNavMesh instance due to saved navmesh origin (X=0.000 Y=11.607 Z=51.944, usually the RecastNavMesh location) not being aligned with tile size (1025 uu) 
+[2025.08.29-11.16.31:801][547]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2025.08.29-11.16.31:804][547]LogLoad: Took 0.194687 seconds to LoadMap(/Game/SideScrollerBP/Maps/UEDPIE_0_level1)
+[2025.08.29-11.16.33:493][643]Cmd: LevelEditor.ToggleImmersive
+[2025.08.29-11.16.59:944][220]LogCharacterMovement: SideScrollerCharacter_78 is stuck and failed to move! Velocity: X=0.00 Y=685.86 Z=0.00 Location: X=1196.79 Y=-939.52 Z=172.53 Normal: X=0.00 Y=-1.00 Z=0.00 PenetrationDepth:2.673 Actor:trimsheetscifi_Plane_10 Component:StaticMeshComponent0 BoneName:None (0 other events since notify)
+[2025.08.29-11.17.03:628][441]LogCharacterMovement: SideScrollerCharacter_78 is stuck and failed to move! Velocity: X=0.00 Y=-265.22 Z=0.00 Location: X=1196.79 Y=-1759.43 Z=169.47 Normal: X=0.00 Y=1.00 Z=0.00 PenetrationDepth:1.645 Actor:trimsheetscifi_Plane_18 Component:StaticMeshComponent0 BoneName:None (0 other events since notify)
+[2025.08.29-11.17.34:431][287]Cmd: LevelEditor.ToggleImmersive
+[2025.08.29-11.17.35:958][370]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.08.29-11.17.35:958][370]LogWorld: BeginTearingDown for /Game/SideScrollerBP/Maps/UEDPIE_0_level1
+[2025.08.29-11.17.35:960][370]LogWorld: UWorld::CleanupWorld for level1, bSessionEnded=true, bCleanupResources=true
+[2025.08.29-11.17.35:964][370]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.08.29-11.17.35:979][370]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.08.29-11.17.35:988][370]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.08.29-11.17.36:028][370]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.08.29-11.17.36:028][370]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2025.08.29-11.17.36:030][370]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2025.08.29-11.17.36:034][370]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.08.29-11.17.36:043][370]LogUObjectHash: Compacting FUObjectHashTables data took   5.52ms
+[2025.08.29-11.17.36:074][371]LogPlayLevel: Display: Destroying online subsystem :Context_44
+[2025.08.29-11.17.36:589][397]LogUObjectHash: Compacting FUObjectHashTables data took   5.10ms
+[2025.08.29-11.17.36:597][397]LogSavePackage: Moving '../../../../../../Users/Melih/Documents/GitHub/MyProject/platkasoyun/Saved/MainMenuLevel8FE8AF654CE85D72FBBC47ADE0A85AE2.tmp' to '../../../../../../Users/Melih/Documents/GitHub/MyProject/platkasoyun/Content/SideScrollerBP/Maps/MainMenuLevel.umap'
+[2025.08.29-11.17.36:640][397]AssetCheck: New page: Asset Save: MainMenuLevel
+[2025.08.29-11.17.36:640][397]LogContentValidation: Display: Validating World /Game/SideScrollerBP/Maps/MainMenuLevel.MainMenuLevel
+[2025.08.29-11.17.43:270][788]LogWorld: UWorld::CleanupWorld for World_28, bSessionEnded=true, bCleanupResources=true
+[2025.08.29-11.17.43:270][788]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.08.29-11.21.05:745][651]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/SideScrollerBP/Blueprints/Enemy/EnemyBP.EnemyBP
+[2025.08.29-11.21.54:635][485]LogSelectionDetails: Warning: NavigateToFunctionSource:  Unable to find symbols for 'AActor::K2_GetActorLocation' [The specified module could not be found.]
+[2025.08.29-11.22.13:539][550]BlueprintLog: New page: Compile EnemyBP
+[2025.08.29-11.22.13:649][550]LogUObjectHash: Compacting FUObjectHashTables data took   6.47ms
+[2025.08.29-11.22.14:973][618]LogTemp: Repeating last play command: Selected Viewport
+[2025.08.29-11.22.14:983][618]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.08.29-11.22.14:983][618]PIE: New page: PIE session: MainMenuLevel (29 Aug 2025, 17.22.14)
+[2025.08.29-11.22.14:983][618]LogPlayLevel: Creating play world package: /Game/SideScrollerBP/Maps/UEDPIE_0_MainMenuLevel
+[2025.08.29-11.22.14:984][618]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001631s)
+[2025.08.29-11.22.14:986][618]LogAIModule: Creating AISystem for world MainMenuLevel
+[2025.08.29-11.22.14:987][618]LogPlayLevel: PIE: World Init took: (0.001298s)
+[2025.08.29-11.22.14:987][618]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/SideScrollerBP/Maps/MainMenuLevel.MainMenuLevel to /Game/SideScrollerBP/Maps/UEDPIE_0_MainMenuLevel.MainMenuLevel (0.003067s)
+[2025.08.29-11.22.15:029][618]LogUObjectHash: Compacting FUObjectHashTables data took   7.21ms
+[2025.08.29-11.22.15:031][618]LogAudio: Display: Creating Audio Device:                 Id: 18, Scope: Unique, Realtime: True
+[2025.08.29-11.22.15:031][618]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.08.29-11.22.15:031][618]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.08.29-11.22.15:031][618]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.08.29-11.22.15:031][618]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.08.29-11.22.15:031][618]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2025.08.29-11.22.15:031][618]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.08.29-11.22.15:031][618]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2025.08.29-11.22.15:031][618]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.08.29-11.22.15:031][618]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.08.29-11.22.15:031][618]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.08.29-11.22.15:032][618]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.08.29-11.22.15:032][618]LogAudioMixer: Display: Initializing audio mixer.
+[2025.08.29-11.22.15:035][618]LogAudioMixer: Display: 0: FrontLeft
+[2025.08.29-11.22.15:036][618]LogAudioMixer: Display: 1: FrontRight
+[2025.08.29-11.22.15:181][618]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2025.08.29-11.22.15:181][618]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.08.29-11.22.15:181][618]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.08.29-11.22.15:181][618]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.08.29-11.22.15:182][618]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2025.08.29-11.22.15:182][618]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2025.08.29-11.22.15:182][618]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2025.08.29-11.22.15:183][618]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2025.08.29-11.22.15:183][618]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2025.08.29-11.22.15:183][618]LogInit: FAudioDevice initialized.
+[2025.08.29-11.22.15:183][618]LogAudio: Display: Audio Device (ID: 18) registered with world 'MainMenuLevel'.
+[2025.08.29-11.22.15:194][618]LogLoad: Game class is 'MainMenuGameMode_C'
+[2025.08.29-11.22.15:195][618]LogWorld: Bringing World /Game/SideScrollerBP/Maps/UEDPIE_0_MainMenuLevel.MainMenuLevel up for play (max tick rate 60) at 2025.08.29-14.22.15
+[2025.08.29-11.22.15:195][618]LogWorld: Bringing up level for play took: 0.000351
+[2025.08.29-11.22.15:195][618]LogOnline: OSS: Creating online subsystem instance for: :Context_49
+[2025.08.29-11.22.15:224][618]PIE: Server logged in
+[2025.08.29-11.22.15:225][618]PIE: Play in editor total start time 0,243 seconds.
+[2025.08.29-11.22.15:726][648]LogNet: Browse: /Game/SideScrollerBP/Maps/level1
+[2025.08.29-11.22.15:726][648]LogLoad: LoadMap: /Game/SideScrollerBP/Maps/level1
+[2025.08.29-11.22.15:726][648]LogWorld: BeginTearingDown for /Game/SideScrollerBP/Maps/UEDPIE_0_MainMenuLevel
+[2025.08.29-11.22.15:726][648]LogWorld: UWorld::CleanupWorld for MainMenuLevel, bSessionEnded=true, bCleanupResources=true
+[2025.08.29-11.22.15:727][648]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.08.29-11.22.15:802][648]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.08.29-11.22.15:808][648]LogUObjectHash: Compacting FUObjectHashTables data took   5.49ms
+[2025.08.29-11.22.15:808][648]LogPlayLevel: Creating play world package: /Game/SideScrollerBP/Maps/UEDPIE_0_level1
+[2025.08.29-11.22.15:871][648]LogPlayLevel: PIE: StaticDuplicateObject took: (0.061398s)
+[2025.08.29-11.22.15:871][648]LogAIModule: Creating AISystem for world level1
+[2025.08.29-11.22.15:872][648]LogPlayLevel: PIE: World Init took: (0.001284s)
+[2025.08.29-11.22.15:872][648]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/SideScrollerBP/Maps/level1.level1 to /Game/SideScrollerBP/Maps/UEDPIE_0_level1.level1 (0.062934s)
+[2025.08.29-11.22.15:872][648]LogAudio: Display: Audio Device (ID: 18) registered with world 'level1'.
+[2025.08.29-11.22.15:872][648]LogLoad: Game class is 'SideScrollerGameMode_C'
+[2025.08.29-11.22.15:913][648]LogWorld: Bringing World /Game/SideScrollerBP/Maps/UEDPIE_0_level1.level1 up for play (max tick rate 60) at 2025.08.29-14.22.15
+[2025.08.29-11.22.15:916][648]LogWorld: Bringing up level for play took: 0.043230
+[2025.08.29-11.22.15:918][648]LogNavigation: Warning: Recreating dtNavMesh instance due to saved navmesh origin (X=0.000 Y=11.607 Z=51.944, usually the RecastNavMesh location) not being aligned with tile size (1025 uu) 
+[2025.08.29-11.22.15:930][648]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2025.08.29-11.22.15:933][648]LogLoad: Took 0.207390 seconds to LoadMap(/Game/SideScrollerBP/Maps/UEDPIE_0_level1)
+[2025.08.29-11.22.17:416][728]Cmd: LevelEditor.ToggleImmersive
+[2025.08.29-11.22.30:782][524]Cmd: LevelEditor.ToggleImmersive
+[2025.08.29-11.22.31:469][555]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.08.29-11.22.31:469][555]LogWorld: BeginTearingDown for /Game/SideScrollerBP/Maps/UEDPIE_0_level1
+[2025.08.29-11.22.31:470][555]LogWorld: UWorld::CleanupWorld for level1, bSessionEnded=true, bCleanupResources=true
+[2025.08.29-11.22.31:474][555]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.08.29-11.22.31:485][555]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.08.29-11.22.31:495][555]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.08.29-11.22.31:534][555]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.08.29-11.22.31:534][555]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2025.08.29-11.22.31:536][555]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2025.08.29-11.22.31:540][555]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.08.29-11.22.31:551][555]LogUObjectHash: Compacting FUObjectHashTables data took   5.46ms
+[2025.08.29-11.22.31:580][556]LogPlayLevel: Display: Destroying online subsystem :Context_49
+[2025.08.29-11.23.12:405][913]LogContentBrowser: Attempting asset rename: TutorialParticleSystem -> enemyblood
+[2025.08.29-11.23.12:593][913]LogSavePackage: Moving '../../../../../../Users/Melih/Documents/GitHub/MyProject/platkasoyun/Saved/enemyblood9058012B423B80577E7BCBA1B92DA2B1.tmp' to '../../../../../../Users/Melih/Documents/GitHub/MyProject/platkasoyun/Content/SideScrollerBP/Blueprints/Enemy/enemyblood.uasset'
+[2025.08.29-11.23.12:711][913]LogUObjectHash: Compacting FUObjectHashTables data took   7.08ms
+[2025.08.29-11.23.12:763][913]LogUObjectHash: Compacting FUObjectHashTables data took   4.49ms
+[2025.08.29-11.23.12:799][913]LogUObjectHash: Compacting FUObjectHashTables data took   1.21ms
+[2025.08.29-11.23.12:856][913]AssetCheck: New page: Asset Save: enemyblood
+[2025.08.29-11.23.12:856][913]LogContentValidation: Display: Validating ParticleSystem /Game/SideScrollerBP/Blueprints/Enemy/enemyblood.enemyblood
+[2025.08.29-11.23.13:940][969]LogAssetEditorSubsystem: Opening Asset editor for ParticleSystem /Game/SideScrollerBP/Blueprints/Enemy/enemyblood.enemyblood
+[2025.08.29-11.23.13:973][969]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'Cascade' in 0.0003 seconds. Added 2 classes and 2 folders.
+[2025.08.29-11.23.47:642][866]LogSlate: Window 'Color Picker' being destroyed
+[2025.08.29-11.24.10:653][227]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2025.08.29-11.24.10:682][227]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2025.08.29-11.24.38:348][862]LogSlate: Window 'enemyblood' being destroyed
+[2025.08.29-11.24.38:357][862]LogCascade: Quitting Cascade. FXSystem=0x000001D90B609B40
+[2025.08.29-11.24.38:422][862]LogWorld: UWorld::CleanupWorld for World_34, bSessionEnded=true, bCleanupResources=true
+[2025.08.29-11.24.38:422][862]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.08.29-11.24.52:326][645]BlueprintLog: New page: Compile EnemyBP
+[2025.08.29-11.24.52:481][645]LogUObjectHash: Compacting FUObjectHashTables data took   9.66ms
+[2025.08.29-11.25.02:634][204]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/SideScrollerBP/Blueprints/Gun/muzzleflash.muzzleflash
+[2025.08.29-11.25.21:775][270]LogAssetEditorSubsystem: Opening Asset editor for ParticleSystem /Engine/Tutorial/SubEditors/TutorialAssets/TutorialParticleSystem.TutorialParticleSystem
+[2025.08.29-11.25.26:481][540]LogCascade: Quitting Cascade. FXSystem=0x000001D974BD4D60
+[2025.08.29-11.25.26:529][540]LogWorld: UWorld::CleanupWorld for World_36, bSessionEnded=true, bCleanupResources=true
+[2025.08.29-11.25.26:529][540]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.08.29-11.25.35:985][ 90]LogSlate: Window 'muzzleflash' being destroyed
+[2025.08.29-11.25.35:998][ 90]LogWorld: UWorld::CleanupWorld for World_35, bSessionEnded=true, bCleanupResources=true
+[2025.08.29-11.25.35:999][ 90]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.08.29-11.25.41:616][395]LogAssetEditorSubsystem: Opening Asset editor for ParticleSystem /Game/SideScrollerBP/Blueprints/Enemy/enemyblood.enemyblood
+[2025.08.29-11.25.55:983][157]LogSavePackage: Moving '../../../../../../Users/Melih/Documents/GitHub/MyProject/platkasoyun/Saved/enemyblood82F9BB4843BF4F857C6946BEE54FD521.tmp' to '../../../../../../Users/Melih/Documents/GitHub/MyProject/platkasoyun/Content/SideScrollerBP/Blueprints/Enemy/enemyblood.uasset'
+[2025.08.29-11.25.56:006][157]AssetCheck: New page: Asset Save: enemyblood
+[2025.08.29-11.25.56:006][157]LogContentValidation: Display: Validating ParticleSystem /Game/SideScrollerBP/Blueprints/Enemy/enemyblood.enemyblood
+[2025.08.29-11.25.57:507][225]LogSlate: Window 'enemyblood' being destroyed
+[2025.08.29-11.25.58:934][304]LogTemp: Repeating last play command: Selected Viewport
+[2025.08.29-11.25.58:943][304]BlueprintLog: New page: Pre-Play auto-recompile
+[2025.08.29-11.25.58:944][304]LogPlayLevel: [PlayLevel] Compiling level1 before play...
+[2025.08.29-11.25.59:064][304]LogUObjectHash: Compacting FUObjectHashTables data took   9.81ms
+[2025.08.29-11.25.59:071][304]LogPlayLevel: PlayLevel: Blueprint regeneration took 127 ms (1 blueprints)
+[2025.08.29-11.25.59:071][304]PIE: New page: PIE session: MainMenuLevel (29 Aug 2025, 17.25.59)
+[2025.08.29-11.25.59:073][304]LogPlayLevel: Creating play world package: /Game/SideScrollerBP/Maps/UEDPIE_0_MainMenuLevel
+[2025.08.29-11.25.59:075][304]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001634s)
+[2025.08.29-11.25.59:076][304]LogAIModule: Creating AISystem for world MainMenuLevel
+[2025.08.29-11.25.59:076][304]LogPlayLevel: PIE: World Init took: (0.001125s)
+[2025.08.29-11.25.59:076][304]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/SideScrollerBP/Maps/MainMenuLevel.MainMenuLevel to /Game/SideScrollerBP/Maps/UEDPIE_0_MainMenuLevel.MainMenuLevel (0.002954s)
+[2025.08.29-11.25.59:124][304]LogUObjectHash: Compacting FUObjectHashTables data took   6.41ms
+[2025.08.29-11.25.59:124][304]LogAudio: Display: Creating Audio Device:                 Id: 19, Scope: Unique, Realtime: True
+[2025.08.29-11.25.59:124][304]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.08.29-11.25.59:124][304]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.08.29-11.25.59:124][304]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.08.29-11.25.59:124][304]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.08.29-11.25.59:124][304]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2025.08.29-11.25.59:124][304]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.08.29-11.25.59:124][304]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2025.08.29-11.25.59:124][304]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.08.29-11.25.59:125][304]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.08.29-11.25.59:125][304]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.08.29-11.25.59:125][304]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.08.29-11.25.59:125][304]LogAudioMixer: Display: Initializing audio mixer.
+[2025.08.29-11.25.59:128][304]LogAudioMixer: Display: 0: FrontLeft
+[2025.08.29-11.25.59:128][304]LogAudioMixer: Display: 1: FrontRight
+[2025.08.29-11.25.59:274][304]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2025.08.29-11.25.59:274][304]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.08.29-11.25.59:274][304]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.08.29-11.25.59:275][304]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.08.29-11.25.59:275][304]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2025.08.29-11.25.59:275][304]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2025.08.29-11.25.59:275][304]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2025.08.29-11.25.59:277][304]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2025.08.29-11.25.59:277][304]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2025.08.29-11.25.59:277][304]LogInit: FAudioDevice initialized.
+[2025.08.29-11.25.59:277][304]LogAudio: Display: Audio Device (ID: 19) registered with world 'MainMenuLevel'.
+[2025.08.29-11.25.59:292][304]LogLoad: Game class is 'MainMenuGameMode_C'
+[2025.08.29-11.25.59:294][304]LogWorld: Bringing World /Game/SideScrollerBP/Maps/UEDPIE_0_MainMenuLevel.MainMenuLevel up for play (max tick rate 60) at 2025.08.29-14.25.59
+[2025.08.29-11.25.59:294][304]LogWorld: Bringing up level for play took: 0.000407
+[2025.08.29-11.25.59:294][304]LogOnline: OSS: Creating online subsystem instance for: :Context_55
+[2025.08.29-11.25.59:322][304]PIE: Server logged in
+[2025.08.29-11.25.59:324][304]PIE: Play in editor total start time 0,381 seconds.
+[2025.08.29-11.26.00:094][350]LogNet: Browse: /Game/SideScrollerBP/Maps/level1
+[2025.08.29-11.26.00:094][350]LogLoad: LoadMap: /Game/SideScrollerBP/Maps/level1
+[2025.08.29-11.26.00:094][350]LogWorld: BeginTearingDown for /Game/SideScrollerBP/Maps/UEDPIE_0_MainMenuLevel
+[2025.08.29-11.26.00:095][350]LogWorld: UWorld::CleanupWorld for MainMenuLevel, bSessionEnded=true, bCleanupResources=true
+[2025.08.29-11.26.00:095][350]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.08.29-11.26.00:158][350]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.08.29-11.26.00:165][350]LogUObjectHash: Compacting FUObjectHashTables data took   6.59ms
+[2025.08.29-11.26.00:165][350]LogPlayLevel: Creating play world package: /Game/SideScrollerBP/Maps/UEDPIE_0_level1
+[2025.08.29-11.26.00:229][350]LogPlayLevel: PIE: StaticDuplicateObject took: (0.063008s)
+[2025.08.29-11.26.00:230][350]LogAIModule: Creating AISystem for world level1
+[2025.08.29-11.26.00:231][350]LogPlayLevel: PIE: World Init took: (0.001413s)
+[2025.08.29-11.26.00:231][350]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/SideScrollerBP/Maps/level1.level1 to /Game/SideScrollerBP/Maps/UEDPIE_0_level1.level1 (0.064682s)
+[2025.08.29-11.26.00:231][350]LogAudio: Display: Audio Device (ID: 19) registered with world 'level1'.
+[2025.08.29-11.26.00:231][350]LogLoad: Game class is 'SideScrollerGameMode_C'
+[2025.08.29-11.26.00:271][350]LogWorld: Bringing World /Game/SideScrollerBP/Maps/UEDPIE_0_level1.level1 up for play (max tick rate 60) at 2025.08.29-14.26.00
+[2025.08.29-11.26.00:276][350]LogWorld: Bringing up level for play took: 0.044028
+[2025.08.29-11.26.00:277][350]LogNavigation: Warning: Recreating dtNavMesh instance due to saved navmesh origin (X=0.000 Y=11.607 Z=51.944, usually the RecastNavMesh location) not being aligned with tile size (1025 uu) 
+[2025.08.29-11.26.00:290][350]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2025.08.29-11.26.00:293][350]LogLoad: Took 0.198345 seconds to LoadMap(/Game/SideScrollerBP/Maps/UEDPIE_0_level1)
+[2025.08.29-11.26.15:245][227]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.08.29-11.26.15:245][227]LogWorld: BeginTearingDown for /Game/SideScrollerBP/Maps/UEDPIE_0_level1
+[2025.08.29-11.26.15:246][227]LogWorld: UWorld::CleanupWorld for level1, bSessionEnded=true, bCleanupResources=true
+[2025.08.29-11.26.15:250][227]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.08.29-11.26.15:267][227]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.08.29-11.26.15:278][227]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.08.29-11.26.15:322][227]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.08.29-11.26.15:322][227]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2025.08.29-11.26.15:324][227]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2025.08.29-11.26.15:328][227]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.08.29-11.26.15:339][227]LogUObjectHash: Compacting FUObjectHashTables data took   6.68ms
+[2025.08.29-11.26.15:379][228]LogPlayLevel: Display: Destroying online subsystem :Context_55
+[2025.08.29-11.26.16:566][294]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2025.08.29-11.26.16:566][294]LogWorld: UWorld::CleanupWorld for World_32, bSessionEnded=true, bCleanupResources=true
+[2025.08.29-11.26.16:566][294]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.08.29-11.26.35:276][352]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/SideScrollerBP/Blueprints/Enemy/EnemyBP.EnemyBP
+[2025.08.29-11.27.28:868][300]LogEditorTransaction: Undo Move Node
+[2025.08.29-11.28.31:738][488]LogUObjectHash: Compacting FUObjectHashTables data took   9.36ms
+[2025.08.29-11.28.31:741][488]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/SideScrollerBP/Maps/MainMenuLevel' took 0.092
+[2025.08.29-11.28.31:742][488]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/SideScrollerBP/Blueprints/Enemy/EnemyBP] ([2] browsable assets)...
+[2025.08.29-11.28.31:791][488]OBJ SavePackage:     Rendered thumbnail for [BlueprintGeneratedClass /Game/SideScrollerBP/Blueprints/Enemy/EnemyBP.EnemyBP_C]
+[2025.08.29-11.28.31:824][488]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/SideScrollerBP/Blueprints/Enemy/EnemyBP.EnemyBP]
+[2025.08.29-11.28.31:824][488]OBJ SavePackage: Finished generating thumbnails for package [/Game/SideScrollerBP/Blueprints/Enemy/EnemyBP]
+[2025.08.29-11.28.31:893][488]LogSavePackage: Moving '../../../../../../Users/Melih/Documents/GitHub/MyProject/platkasoyun/Saved/EnemyBP_Auto1A296DF584A70E0C2F975F9A837C558B6.tmp' to '../../../../../../Users/Melih/Documents/GitHub/MyProject/platkasoyun/Saved/Autosaves/Game/SideScrollerBP/Blueprints/Enemy/EnemyBP_Auto1.uasset'
+[2025.08.29-11.28.31:895][488]LogFileHelpers: Auto-saving content packages took 0.153
+[2025.08.29-11.29.13:600][535]LogSavePackage: Moving '../../../../../../Users/Melih/Documents/GitHub/MyProject/platkasoyun/Saved/EnemyBP89B608B04F2668B57740BEA50875E63C.tmp' to '../../../../../../Users/Melih/Documents/GitHub/MyProject/platkasoyun/Content/SideScrollerBP/Blueprints/Enemy/EnemyBP.uasset'
+[2025.08.29-11.29.13:621][535]AssetCheck: New page: Asset Save: EnemyBP
+[2025.08.29-11.29.13:621][535]LogContentValidation: Display: Validating Blueprint /Game/SideScrollerBP/Blueprints/Enemy/EnemyBP.EnemyBP
+[2025.08.29-11.29.15:185][627]BlueprintLog: New page: Compile EnemyBP
+[2025.08.29-11.29.15:195][627]LogBlueprint: Error: [AssetLog] C:\Users\Melih\Documents\GitHub\MyProject\platkasoyun\Content\SideScrollerBP\Blueprints\Enemy\EnemyBP.uasset: [Compiler] This blueprint (self) is not a ActorComponent, therefore ' Target ' must have a connection.
+[2025.08.29-11.29.15:335][627]LogUObjectHash: Compacting FUObjectHashTables data took   7.97ms
+[2025.08.29-11.29.23:062][ 43]BlueprintLog: New page: Compile EnemyBP
+[2025.08.29-11.29.23:179][ 43]LogUObjectHash: Compacting FUObjectHashTables data took   7.50ms
+[2025.08.29-11.29.24:807][126]LogTemp: Repeating last play command: Selected Viewport
+[2025.08.29-11.29.24:817][126]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.08.29-11.29.24:817][126]PIE: New page: PIE session: MainMenuLevel (29 Aug 2025, 17.29.24)
+[2025.08.29-11.29.24:843][126]LogPlayLevel: Creating play world package: /Game/SideScrollerBP/Maps/UEDPIE_0_MainMenuLevel
+[2025.08.29-11.29.24:846][126]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002540s)
+[2025.08.29-11.29.24:847][126]LogAIModule: Creating AISystem for world MainMenuLevel
+[2025.08.29-11.29.24:847][126]LogPlayLevel: PIE: World Init took: (0.001180s)
+[2025.08.29-11.29.24:847][126]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/SideScrollerBP/Maps/MainMenuLevel.MainMenuLevel to /Game/SideScrollerBP/Maps/UEDPIE_0_MainMenuLevel.MainMenuLevel (0.003894s)
+[2025.08.29-11.29.24:891][126]LogUObjectHash: Compacting FUObjectHashTables data took   7.08ms
+[2025.08.29-11.29.24:892][126]LogAudio: Display: Creating Audio Device:                 Id: 20, Scope: Unique, Realtime: True
+[2025.08.29-11.29.24:892][126]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.08.29-11.29.24:892][126]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.08.29-11.29.24:892][126]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.08.29-11.29.24:892][126]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.08.29-11.29.24:892][126]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2025.08.29-11.29.24:892][126]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.08.29-11.29.24:892][126]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2025.08.29-11.29.24:892][126]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.08.29-11.29.24:892][126]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.08.29-11.29.24:892][126]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.08.29-11.29.24:892][126]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.08.29-11.29.24:892][126]LogAudioMixer: Display: Initializing audio mixer.
+[2025.08.29-11.29.24:897][126]LogAudioMixer: Display: 0: FrontLeft
+[2025.08.29-11.29.24:897][126]LogAudioMixer: Display: 1: FrontRight
+[2025.08.29-11.29.25:046][126]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2025.08.29-11.29.25:046][126]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.08.29-11.29.25:046][126]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.08.29-11.29.25:046][126]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.08.29-11.29.25:047][126]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2025.08.29-11.29.25:047][126]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2025.08.29-11.29.25:047][126]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2025.08.29-11.29.25:048][126]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2025.08.29-11.29.25:048][126]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2025.08.29-11.29.25:048][126]LogInit: FAudioDevice initialized.
+[2025.08.29-11.29.25:048][126]LogAudio: Display: Audio Device (ID: 20) registered with world 'MainMenuLevel'.
+[2025.08.29-11.29.25:062][126]LogLoad: Game class is 'MainMenuGameMode_C'
+[2025.08.29-11.29.25:063][126]LogWorld: Bringing World /Game/SideScrollerBP/Maps/UEDPIE_0_MainMenuLevel.MainMenuLevel up for play (max tick rate 60) at 2025.08.29-14.29.25
+[2025.08.29-11.29.25:064][126]LogWorld: Bringing up level for play took: 0.000639
+[2025.08.29-11.29.25:064][126]LogOnline: OSS: Creating online subsystem instance for: :Context_58
+[2025.08.29-11.29.25:091][126]PIE: Server logged in
+[2025.08.29-11.29.25:092][126]PIE: Play in editor total start time 0,277 seconds.
+[2025.08.29-11.29.25:962][178]LogNet: Browse: /Game/SideScrollerBP/Maps/level1
+[2025.08.29-11.29.25:962][178]LogLoad: LoadMap: /Game/SideScrollerBP/Maps/level1
+[2025.08.29-11.29.25:962][178]LogWorld: BeginTearingDown for /Game/SideScrollerBP/Maps/UEDPIE_0_MainMenuLevel
+[2025.08.29-11.29.25:962][178]LogWorld: UWorld::CleanupWorld for MainMenuLevel, bSessionEnded=true, bCleanupResources=true
+[2025.08.29-11.29.25:962][178]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.08.29-11.29.26:033][178]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.08.29-11.29.26:039][178]LogUObjectHash: Compacting FUObjectHashTables data took   5.61ms
+[2025.08.29-11.29.26:040][178]LogPlayLevel: Creating play world package: /Game/SideScrollerBP/Maps/UEDPIE_0_level1
+[2025.08.29-11.29.26:102][178]LogPlayLevel: PIE: StaticDuplicateObject took: (0.062679s)
+[2025.08.29-11.29.26:103][178]LogAIModule: Creating AISystem for world level1
+[2025.08.29-11.29.26:104][178]LogPlayLevel: PIE: World Init took: (0.001349s)
+[2025.08.29-11.29.26:104][178]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/SideScrollerBP/Maps/level1.level1 to /Game/SideScrollerBP/Maps/UEDPIE_0_level1.level1 (0.064276s)
+[2025.08.29-11.29.26:104][178]LogAudio: Display: Audio Device (ID: 20) registered with world 'level1'.
+[2025.08.29-11.29.26:104][178]LogLoad: Game class is 'SideScrollerGameMode_C'
+[2025.08.29-11.29.26:144][178]LogWorld: Bringing World /Game/SideScrollerBP/Maps/UEDPIE_0_level1.level1 up for play (max tick rate 60) at 2025.08.29-14.29.26
+[2025.08.29-11.29.26:147][178]LogWorld: Bringing up level for play took: 0.042834
+[2025.08.29-11.29.26:149][178]LogNavigation: Warning: Recreating dtNavMesh instance due to saved navmesh origin (X=0.000 Y=11.607 Z=51.944, usually the RecastNavMesh location) not being aligned with tile size (1025 uu) 
+[2025.08.29-11.29.26:161][178]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2025.08.29-11.29.26:165][178]LogLoad: Took 0.202761 seconds to LoadMap(/Game/SideScrollerBP/Maps/UEDPIE_0_level1)
+[2025.08.29-11.29.27:542][238]Cmd: LevelEditor.ToggleImmersive
+[2025.08.29-11.29.34:385][640]LogScript: Warning: UGameplayStatics::SpawnEmitterAttached: NULL AttachComponent specified!
+[2025.08.29-11.29.34:816][664]LogScript: Warning: UGameplayStatics::SpawnEmitterAttached: NULL AttachComponent specified!
+[2025.08.29-11.29.35:372][696]LogScript: Warning: Accessed None trying to read property CallFunc_SpawnEmitterAttached_ReturnValue
+	EnemyBP_C /Game/SideScrollerBP/Maps/UEDPIE_0_level1.level1:PersistentLevel.EnemyBP3_2
+	Function /Game/SideScrollerBP/Blueprints/Enemy/EnemyBP.EnemyBP_C:ExecuteUbergraph_EnemyBP:0055
+[2025.08.29-11.29.35:372][696]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_SpawnEmitterAttached_ReturnValue". Blueprint:  EnemyBP Function:  Execute Ubergraph Enemy BP Graph:  EventGraph Node:  DestroyComponent
+[2025.08.29-11.29.35:493][703]LogScript: Warning: UGameplayStatics::SpawnEmitterAttached: NULL AttachComponent specified!
+[2025.08.29-11.29.35:879][726]LogScript: Warning: UGameplayStatics::SpawnEmitterAttached: NULL AttachComponent specified!
+[2025.08.29-11.29.36:490][761]LogScript: Warning: Accessed None trying to read property CallFunc_SpawnEmitterAttached_ReturnValue
+	EnemyBP_C /Game/SideScrollerBP/Maps/UEDPIE_0_level1.level1:PersistentLevel.EnemyBP3_2
+	Function /Game/SideScrollerBP/Blueprints/Enemy/EnemyBP.EnemyBP_C:ExecuteUbergraph_EnemyBP:0055
+[2025.08.29-11.29.36:490][761]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_SpawnEmitterAttached_ReturnValue". Blueprint:  EnemyBP Function:  Execute Ubergraph Enemy BP Graph:  EventGraph Node:  DestroyComponent
+[2025.08.29-11.29.37:542][823]Cmd: LevelEditor.ToggleImmersive
+[2025.08.29-11.29.38:050][842]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.08.29-11.29.38:050][842]LogWorld: BeginTearingDown for /Game/SideScrollerBP/Maps/UEDPIE_0_level1
+[2025.08.29-11.29.38:052][842]LogWorld: UWorld::CleanupWorld for level1, bSessionEnded=true, bCleanupResources=true
+[2025.08.29-11.29.38:056][842]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.08.29-11.29.38:070][842]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.08.29-11.29.38:080][842]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.08.29-11.29.38:116][842]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.08.29-11.29.38:117][842]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2025.08.29-11.29.38:118][842]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2025.08.29-11.29.38:136][842]LogUObjectHash: Compacting FUObjectHashTables data took   5.48ms
+[2025.08.29-11.29.38:263][843]LogPlayLevel: Display: Destroying online subsystem :Context_58
+[2025.08.29-11.29.49:909][532]LogSlate: Window 'Message Log' being destroyed
+[2025.08.29-11.29.49:918][532]LogSlate: Window 'Message Log' being destroyed
+[2025.08.29-11.30.47:371][625]BlueprintLog: New page: Compile EnemyBP
+[2025.08.29-11.30.47:490][625]LogUObjectHash: Compacting FUObjectHashTables data took   6.04ms
+[2025.08.29-11.30.50:583][777]BlueprintLog: New page: Compile EnemyBP
+[2025.08.29-11.30.50:705][777]LogUObjectHash: Compacting FUObjectHashTables data took   7.45ms
+[2025.08.29-11.30.51:775][830]LogTemp: Repeating last play command: Selected Viewport
+[2025.08.29-11.30.51:784][830]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.08.29-11.30.51:784][830]PIE: New page: PIE session: MainMenuLevel (29 Aug 2025, 17.30.51)
+[2025.08.29-11.30.51:784][830]LogPlayLevel: Creating play world package: /Game/SideScrollerBP/Maps/UEDPIE_0_MainMenuLevel
+[2025.08.29-11.30.51:786][830]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001654s)
+[2025.08.29-11.30.51:787][830]LogAIModule: Creating AISystem for world MainMenuLevel
+[2025.08.29-11.30.51:788][830]LogPlayLevel: PIE: World Init took: (0.001176s)
+[2025.08.29-11.30.51:788][830]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/SideScrollerBP/Maps/MainMenuLevel.MainMenuLevel to /Game/SideScrollerBP/Maps/UEDPIE_0_MainMenuLevel.MainMenuLevel (0.002966s)
+[2025.08.29-11.30.51:830][830]LogUObjectHash: Compacting FUObjectHashTables data took   6.99ms
+[2025.08.29-11.30.51:831][830]LogAudio: Display: Creating Audio Device:                 Id: 21, Scope: Unique, Realtime: True
+[2025.08.29-11.30.51:831][830]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.08.29-11.30.51:831][830]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.08.29-11.30.51:831][830]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.08.29-11.30.51:831][830]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.08.29-11.30.51:831][830]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2025.08.29-11.30.51:831][830]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.08.29-11.30.51:831][830]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2025.08.29-11.30.51:831][830]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.08.29-11.30.51:831][830]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.08.29-11.30.51:831][830]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.08.29-11.30.51:831][830]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.08.29-11.30.51:831][830]LogAudioMixer: Display: Initializing audio mixer.
+[2025.08.29-11.30.51:835][830]LogAudioMixer: Display: 0: FrontLeft
+[2025.08.29-11.30.51:835][830]LogAudioMixer: Display: 1: FrontRight
+[2025.08.29-11.30.51:976][830]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2025.08.29-11.30.51:977][830]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.08.29-11.30.51:977][830]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.08.29-11.30.51:977][830]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.08.29-11.30.51:977][830]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2025.08.29-11.30.51:977][830]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2025.08.29-11.30.51:977][830]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2025.08.29-11.30.51:979][830]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2025.08.29-11.30.51:979][830]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2025.08.29-11.30.51:979][830]LogInit: FAudioDevice initialized.
+[2025.08.29-11.30.51:979][830]LogAudio: Display: Audio Device (ID: 21) registered with world 'MainMenuLevel'.
+[2025.08.29-11.30.51:993][830]LogLoad: Game class is 'MainMenuGameMode_C'
+[2025.08.29-11.30.51:994][830]LogWorld: Bringing World /Game/SideScrollerBP/Maps/UEDPIE_0_MainMenuLevel.MainMenuLevel up for play (max tick rate 60) at 2025.08.29-14.30.51
+[2025.08.29-11.30.51:994][830]LogWorld: Bringing up level for play took: 0.000360
+[2025.08.29-11.30.51:996][830]LogOnline: OSS: Creating online subsystem instance for: :Context_59
+[2025.08.29-11.30.52:024][830]PIE: Server logged in
+[2025.08.29-11.30.52:025][830]PIE: Play in editor total start time 0,241 seconds.
+[2025.08.29-11.30.52:883][881]LogNet: Browse: /Game/SideScrollerBP/Maps/level1
+[2025.08.29-11.30.52:883][881]LogLoad: LoadMap: /Game/SideScrollerBP/Maps/level1
+[2025.08.29-11.30.52:883][881]LogWorld: BeginTearingDown for /Game/SideScrollerBP/Maps/UEDPIE_0_MainMenuLevel
+[2025.08.29-11.30.52:883][881]LogWorld: UWorld::CleanupWorld for MainMenuLevel, bSessionEnded=true, bCleanupResources=true
+[2025.08.29-11.30.52:883][881]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.08.29-11.30.52:954][881]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.08.29-11.30.52:961][881]LogUObjectHash: Compacting FUObjectHashTables data took   5.39ms
+[2025.08.29-11.30.52:962][881]LogPlayLevel: Creating play world package: /Game/SideScrollerBP/Maps/UEDPIE_0_level1
+[2025.08.29-11.30.53:025][881]LogPlayLevel: PIE: StaticDuplicateObject took: (0.062945s)
+[2025.08.29-11.30.53:026][881]LogAIModule: Creating AISystem for world level1
+[2025.08.29-11.30.53:026][881]LogPlayLevel: PIE: World Init took: (0.001334s)
+[2025.08.29-11.30.53:026][881]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/SideScrollerBP/Maps/level1.level1 to /Game/SideScrollerBP/Maps/UEDPIE_0_level1.level1 (0.064524s)
+[2025.08.29-11.30.53:026][881]LogAudio: Display: Audio Device (ID: 21) registered with world 'level1'.
+[2025.08.29-11.30.53:027][881]LogLoad: Game class is 'SideScrollerGameMode_C'
+[2025.08.29-11.30.53:068][881]LogWorld: Bringing World /Game/SideScrollerBP/Maps/UEDPIE_0_level1.level1 up for play (max tick rate 60) at 2025.08.29-14.30.53
+[2025.08.29-11.30.53:071][881]LogWorld: Bringing up level for play took: 0.043740
+[2025.08.29-11.30.53:073][881]LogNavigation: Warning: Recreating dtNavMesh instance due to saved navmesh origin (X=0.000 Y=11.607 Z=51.944, usually the RecastNavMesh location) not being aligned with tile size (1025 uu) 
+[2025.08.29-11.30.53:086][881]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2025.08.29-11.30.53:089][881]LogLoad: Took 0.206157 seconds to LoadMap(/Game/SideScrollerBP/Maps/UEDPIE_0_level1)
+[2025.08.29-11.31.08:019][696]Cmd: LevelEditor.ToggleImmersive
+[2025.08.29-11.31.08:642][714]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.08.29-11.31.08:642][714]LogWorld: BeginTearingDown for /Game/SideScrollerBP/Maps/UEDPIE_0_level1
+[2025.08.29-11.31.08:643][714]LogWorld: UWorld::CleanupWorld for level1, bSessionEnded=true, bCleanupResources=true
+[2025.08.29-11.31.08:648][714]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.08.29-11.31.08:674][714]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.08.29-11.31.08:684][714]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.08.29-11.31.08:721][714]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.08.29-11.31.08:724][714]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2025.08.29-11.31.08:725][714]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2025.08.29-11.31.08:739][714]LogUObjectHash: Compacting FUObjectHashTables data took   5.47ms
+[2025.08.29-11.31.08:773][715]LogPlayLevel: Display: Destroying online subsystem :Context_59
+[2025.08.29-11.31.13:233][959]BlueprintLog: New page: Compile EnemyBP
+[2025.08.29-11.31.13:353][959]LogUObjectHash: Compacting FUObjectHashTables data took   6.01ms
+[2025.08.29-11.31.13:672][971]BlueprintLog: New page: Compile EnemyBP
+[2025.08.29-11.31.13:791][971]LogUObjectHash: Compacting FUObjectHashTables data took   7.48ms
+[2025.08.29-11.31.23:294][507]BlueprintLog: New page: Compile EnemyBP
+[2025.08.29-11.31.23:418][507]LogUObjectHash: Compacting FUObjectHashTables data took   7.85ms
+[2025.08.29-11.31.25:929][636]LogTemp: Repeating last play command: Selected Viewport
+[2025.08.29-11.31.25:939][636]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.08.29-11.31.25:939][636]PIE: New page: PIE session: MainMenuLevel (29 Aug 2025, 17.31.25)
+[2025.08.29-11.31.25:939][636]LogPlayLevel: Creating play world package: /Game/SideScrollerBP/Maps/UEDPIE_0_MainMenuLevel
+[2025.08.29-11.31.25:941][636]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001660s)
+[2025.08.29-11.31.25:942][636]LogAIModule: Creating AISystem for world MainMenuLevel
+[2025.08.29-11.31.25:942][636]LogPlayLevel: PIE: World Init took: (0.001182s)
+[2025.08.29-11.31.25:942][636]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/SideScrollerBP/Maps/MainMenuLevel.MainMenuLevel to /Game/SideScrollerBP/Maps/UEDPIE_0_MainMenuLevel.MainMenuLevel (0.002975s)
+[2025.08.29-11.31.25:986][636]LogUObjectHash: Compacting FUObjectHashTables data took   7.00ms
+[2025.08.29-11.31.25:986][636]LogAudio: Display: Creating Audio Device:                 Id: 22, Scope: Unique, Realtime: True
+[2025.08.29-11.31.25:987][636]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.08.29-11.31.25:987][636]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.08.29-11.31.25:987][636]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.08.29-11.31.25:987][636]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.08.29-11.31.25:987][636]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2025.08.29-11.31.25:987][636]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.08.29-11.31.25:987][636]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2025.08.29-11.31.25:987][636]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.08.29-11.31.25:987][636]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.08.29-11.31.25:987][636]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.08.29-11.31.25:987][636]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.08.29-11.31.25:987][636]LogAudioMixer: Display: Initializing audio mixer.
+[2025.08.29-11.31.25:991][636]LogAudioMixer: Display: 0: FrontLeft
+[2025.08.29-11.31.25:991][636]LogAudioMixer: Display: 1: FrontRight
+[2025.08.29-11.31.26:134][636]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2025.08.29-11.31.26:134][636]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.08.29-11.31.26:134][636]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.08.29-11.31.26:134][636]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.08.29-11.31.26:135][636]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2025.08.29-11.31.26:135][636]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2025.08.29-11.31.26:135][636]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2025.08.29-11.31.26:136][636]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2025.08.29-11.31.26:136][636]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2025.08.29-11.31.26:136][636]LogInit: FAudioDevice initialized.
+[2025.08.29-11.31.26:136][636]LogAudio: Display: Audio Device (ID: 22) registered with world 'MainMenuLevel'.
+[2025.08.29-11.31.26:147][636]LogLoad: Game class is 'MainMenuGameMode_C'
+[2025.08.29-11.31.26:148][636]LogWorld: Bringing World /Game/SideScrollerBP/Maps/UEDPIE_0_MainMenuLevel.MainMenuLevel up for play (max tick rate 60) at 2025.08.29-14.31.26
+[2025.08.29-11.31.26:148][636]LogWorld: Bringing up level for play took: 0.000354
+[2025.08.29-11.31.26:148][636]LogOnline: OSS: Creating online subsystem instance for: :Context_60
+[2025.08.29-11.31.26:176][636]PIE: Server logged in
+[2025.08.29-11.31.26:177][636]PIE: Play in editor total start time 0,239 seconds.
+[2025.08.29-11.31.27:012][686]LogNet: Browse: /Game/SideScrollerBP/Maps/level1
+[2025.08.29-11.31.27:012][686]LogLoad: LoadMap: /Game/SideScrollerBP/Maps/level1
+[2025.08.29-11.31.27:012][686]LogWorld: BeginTearingDown for /Game/SideScrollerBP/Maps/UEDPIE_0_MainMenuLevel
+[2025.08.29-11.31.27:013][686]LogWorld: UWorld::CleanupWorld for MainMenuLevel, bSessionEnded=true, bCleanupResources=true
+[2025.08.29-11.31.27:013][686]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.08.29-11.31.27:076][686]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.08.29-11.31.27:082][686]LogUObjectHash: Compacting FUObjectHashTables data took   5.36ms
+[2025.08.29-11.31.27:083][686]LogPlayLevel: Creating play world package: /Game/SideScrollerBP/Maps/UEDPIE_0_level1
+[2025.08.29-11.31.27:146][686]LogPlayLevel: PIE: StaticDuplicateObject took: (0.062670s)
+[2025.08.29-11.31.27:147][686]LogAIModule: Creating AISystem for world level1
+[2025.08.29-11.31.27:147][686]LogPlayLevel: PIE: World Init took: (0.001342s)
+[2025.08.29-11.31.27:148][686]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/SideScrollerBP/Maps/level1.level1 to /Game/SideScrollerBP/Maps/UEDPIE_0_level1.level1 (0.064253s)
+[2025.08.29-11.31.27:148][686]LogAudio: Display: Audio Device (ID: 22) registered with world 'level1'.
+[2025.08.29-11.31.27:148][686]LogLoad: Game class is 'SideScrollerGameMode_C'
+[2025.08.29-11.31.27:188][686]LogWorld: Bringing World /Game/SideScrollerBP/Maps/UEDPIE_0_level1.level1 up for play (max tick rate 60) at 2025.08.29-14.31.27
+[2025.08.29-11.31.27:191][686]LogWorld: Bringing up level for play took: 0.043081
+[2025.08.29-11.31.27:192][686]LogNavigation: Warning: Recreating dtNavMesh instance due to saved navmesh origin (X=0.000 Y=11.607 Z=51.944, usually the RecastNavMesh location) not being aligned with tile size (1025 uu) 
+[2025.08.29-11.31.27:205][686]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2025.08.29-11.31.27:209][686]LogLoad: Took 0.196716 seconds to LoadMap(/Game/SideScrollerBP/Maps/UEDPIE_0_level1)
+[2025.08.29-11.31.28:909][780]Cmd: LevelEditor.ToggleImmersive
+[2025.08.29-11.33.25:626][772]LogCharacterMovement: SideScrollerCharacter_78 is stuck and failed to move! Velocity: X=0.00 Y=685.87 Z=0.00 Location: X=1196.79 Y=-676.24 Z=522.22 Normal: X=-0.71 Y=-0.00 Z=0.71 PenetrationDepth:34.074 Actor:boru_2 Component:StaticMesh BoneName:None (0 other events since notify)
+[2025.08.29-11.33.29:309][993]LogNet: Browse: /Game/SideScrollerBP/Maps/level2
+[2025.08.29-11.33.29:309][993]LogLoad: LoadMap: /Game/SideScrollerBP/Maps/level2
+[2025.08.29-11.33.29:309][993]LogWorld: BeginTearingDown for /Game/SideScrollerBP/Maps/UEDPIE_0_level1
+[2025.08.29-11.33.29:310][993]LogWorld: UWorld::CleanupWorld for level1, bSessionEnded=true, bCleanupResources=true
+[2025.08.29-11.33.29:314][993]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.08.29-11.33.29:374][993]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.08.29-11.33.29:383][993]LogUObjectHash: Compacting FUObjectHashTables data took   5.53ms
+[2025.08.29-11.33.29:389][993]LogPlayLevel: Creating play world package: /Game/SideScrollerBP/Maps/UEDPIE_0_level2
+[2025.08.29-11.33.29:427][993]LogPlayLevel: PIE: StaticDuplicateObject took: (0.038776s)
+[2025.08.29-11.33.29:428][993]LogAIModule: Creating AISystem for world level2
+[2025.08.29-11.33.29:428][993]LogPlayLevel: PIE: World Init took: (0.001217s)
+[2025.08.29-11.33.29:428][993]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/SideScrollerBP/Maps/level2.level2 to /Game/SideScrollerBP/Maps/UEDPIE_0_level2.level2 (0.040229s)
+[2025.08.29-11.33.29:428][993]LogAudio: Display: Audio Device (ID: 22) registered with world 'level2'.
+[2025.08.29-11.33.29:428][993]LogLoad: Game class is 'SideScrollerGameMode_C'
+[2025.08.29-11.33.29:465][993]LogWorld: Bringing World /Game/SideScrollerBP/Maps/UEDPIE_0_level2.level2 up for play (max tick rate 60) at 2025.08.29-14.33.29
+[2025.08.29-11.33.29:467][993]LogWorld: Bringing up level for play took: 0.036670
+[2025.08.29-11.33.29:468][993]LogNavigation: Warning: Recreating dtNavMesh instance due to saved navmesh origin (X=0.000 Y=-0.001 Z=836.899, usually the RecastNavMesh location) not being aligned with tile size (6083 uu) 
+[2025.08.29-11.33.29:510][993]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2025.08.29-11.33.29:513][993]LogLoad: Took 0.203301 seconds to LoadMap(/Game/SideScrollerBP/Maps/UEDPIE_0_level2)
+[2025.08.29-11.33.41:118][686]Cmd: LevelEditor.ToggleImmersive
+[2025.08.29-11.33.41:806][720]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.08.29-11.33.41:806][720]LogWorld: BeginTearingDown for /Game/SideScrollerBP/Maps/UEDPIE_0_level2
+[2025.08.29-11.33.41:807][720]LogWorld: UWorld::CleanupWorld for level2, bSessionEnded=true, bCleanupResources=true
+[2025.08.29-11.33.41:809][720]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.08.29-11.33.41:825][720]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.08.29-11.33.41:833][720]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.08.29-11.33.41:872][720]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.08.29-11.33.41:872][720]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2025.08.29-11.33.41:873][720]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2025.08.29-11.33.41:878][720]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.08.29-11.33.41:887][720]LogUObjectHash: Compacting FUObjectHashTables data took   5.56ms
+[2025.08.29-11.33.41:917][721]LogPlayLevel: Display: Destroying online subsystem :Context_60
+[2025.08.29-11.33.42:409][745]LogUObjectHash: Compacting FUObjectHashTables data took   5.22ms
+[2025.08.29-11.33.42:418][745]LogSavePackage: Moving '../../../../../../Users/Melih/Documents/GitHub/MyProject/platkasoyun/Saved/MainMenuLevelA8A580A24E918E9BE7F2EFA1EF37E959.tmp' to '../../../../../../Users/Melih/Documents/GitHub/MyProject/platkasoyun/Content/SideScrollerBP/Maps/MainMenuLevel.umap'
+[2025.08.29-11.33.42:465][745]AssetCheck: New page: Asset Save: MainMenuLevel
+[2025.08.29-11.33.42:465][745]LogContentValidation: Display: Validating World /Game/SideScrollerBP/Maps/MainMenuLevel.MainMenuLevel
+[2025.08.29-11.33.46:458][964]LogSavePackage: Moving '../../../../../../Users/Melih/Documents/GitHub/MyProject/platkasoyun/Saved/EnemyBP40C15DCD4E8B4841D32516B12903AB0D.tmp' to '../../../../../../Users/Melih/Documents/GitHub/MyProject/platkasoyun/Content/SideScrollerBP/Blueprints/Enemy/EnemyBP.uasset'
+[2025.08.29-11.33.46:478][964]AssetCheck: New page: Asset Save: EnemyBP
+[2025.08.29-11.33.46:478][964]LogContentValidation: Display: Validating Blueprint /Game/SideScrollerBP/Blueprints/Enemy/EnemyBP.EnemyBP
+[2025.08.29-11.33.48:609][ 82]LogSavePackage: Moving '../../../../../../Users/Melih/Documents/GitHub/MyProject/platkasoyun/Saved/EnemyBP1F9C37A7464F09923122B183716EA03C.tmp' to '../../../../../../Users/Melih/Documents/GitHub/MyProject/platkasoyun/Content/SideScrollerBP/Blueprints/Enemy/EnemyBP.uasset'
+[2025.08.29-11.33.48:631][ 82]AssetCheck: New page: Asset Save: EnemyBP
+[2025.08.29-11.33.48:631][ 82]LogContentValidation: Display: Validating Blueprint /Game/SideScrollerBP/Blueprints/Enemy/EnemyBP.EnemyBP
+[2025.08.29-11.33.49:134][110]BlueprintLog: New page: Compile EnemyBP
+[2025.08.29-11.33.49:250][110]LogUObjectHash: Compacting FUObjectHashTables data took   6.02ms
+[2025.08.29-11.33.51:840][250]LogTemp: Repeating last play command: Selected Viewport
+[2025.08.29-11.33.51:850][250]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.08.29-11.33.51:850][250]PIE: New page: PIE session: MainMenuLevel (29 Aug 2025, 17.33.51)
+[2025.08.29-11.33.51:873][250]LogPlayLevel: Creating play world package: /Game/SideScrollerBP/Maps/UEDPIE_0_MainMenuLevel
+[2025.08.29-11.33.51:876][250]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002760s)
+[2025.08.29-11.33.51:877][250]LogAIModule: Creating AISystem for world MainMenuLevel
+[2025.08.29-11.33.51:877][250]LogPlayLevel: PIE: World Init took: (0.001244s)
+[2025.08.29-11.33.51:877][250]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/SideScrollerBP/Maps/MainMenuLevel.MainMenuLevel to /Game/SideScrollerBP/Maps/UEDPIE_0_MainMenuLevel.MainMenuLevel (0.004216s)
+[2025.08.29-11.33.51:921][250]LogUObjectHash: Compacting FUObjectHashTables data took   7.09ms
+[2025.08.29-11.33.51:922][250]LogAudio: Display: Creating Audio Device:                 Id: 23, Scope: Unique, Realtime: True
+[2025.08.29-11.33.51:922][250]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.08.29-11.33.51:922][250]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.08.29-11.33.51:922][250]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.08.29-11.33.51:922][250]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.08.29-11.33.51:922][250]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2025.08.29-11.33.51:922][250]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.08.29-11.33.51:922][250]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2025.08.29-11.33.51:922][250]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.08.29-11.33.51:923][250]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.08.29-11.33.51:923][250]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.08.29-11.33.51:923][250]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.08.29-11.33.51:923][250]LogAudioMixer: Display: Initializing audio mixer.
+[2025.08.29-11.33.51:927][250]LogAudioMixer: Display: 0: FrontLeft
+[2025.08.29-11.33.51:927][250]LogAudioMixer: Display: 1: FrontRight
+[2025.08.29-11.33.52:070][250]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2025.08.29-11.33.52:071][250]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.08.29-11.33.52:071][250]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.08.29-11.33.52:071][250]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.08.29-11.33.52:071][250]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2025.08.29-11.33.52:072][250]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2025.08.29-11.33.52:072][250]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2025.08.29-11.33.52:073][250]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2025.08.29-11.33.52:073][250]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2025.08.29-11.33.52:073][250]LogInit: FAudioDevice initialized.
+[2025.08.29-11.33.52:073][250]LogAudio: Display: Audio Device (ID: 23) registered with world 'MainMenuLevel'.
+[2025.08.29-11.33.52:085][250]LogLoad: Game class is 'MainMenuGameMode_C'
+[2025.08.29-11.33.52:086][250]LogWorld: Bringing World /Game/SideScrollerBP/Maps/UEDPIE_0_MainMenuLevel.MainMenuLevel up for play (max tick rate 60) at 2025.08.29-14.33.52
+[2025.08.29-11.33.52:086][250]LogWorld: Bringing up level for play took: 0.000389
+[2025.08.29-11.33.52:086][250]LogOnline: OSS: Creating online subsystem instance for: :Context_61
+[2025.08.29-11.33.52:115][250]PIE: Server logged in
+[2025.08.29-11.33.52:116][250]PIE: Play in editor total start time 0,267 seconds.
+[2025.08.29-11.33.52:686][284]LogNet: Browse: /Game/SideScrollerBP/Maps/level1
+[2025.08.29-11.33.52:686][284]LogLoad: LoadMap: /Game/SideScrollerBP/Maps/level1
+[2025.08.29-11.33.52:686][284]LogWorld: BeginTearingDown for /Game/SideScrollerBP/Maps/UEDPIE_0_MainMenuLevel
+[2025.08.29-11.33.52:686][284]LogWorld: UWorld::CleanupWorld for MainMenuLevel, bSessionEnded=true, bCleanupResources=true
+[2025.08.29-11.33.52:686][284]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.08.29-11.33.52:741][284]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.08.29-11.33.52:748][284]LogUObjectHash: Compacting FUObjectHashTables data took   5.32ms
+[2025.08.29-11.33.52:749][284]LogPlayLevel: Creating play world package: /Game/SideScrollerBP/Maps/UEDPIE_0_level1
+[2025.08.29-11.33.52:811][284]LogPlayLevel: PIE: StaticDuplicateObject took: (0.062471s)
+[2025.08.29-11.33.52:812][284]LogAIModule: Creating AISystem for world level1
+[2025.08.29-11.33.52:812][284]LogPlayLevel: PIE: World Init took: (0.001347s)
+[2025.08.29-11.33.52:812][284]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/SideScrollerBP/Maps/level1.level1 to /Game/SideScrollerBP/Maps/UEDPIE_0_level1.level1 (0.064086s)
+[2025.08.29-11.33.52:812][284]LogAudio: Display: Audio Device (ID: 23) registered with world 'level1'.
+[2025.08.29-11.33.52:812][284]LogLoad: Game class is 'SideScrollerGameMode_C'
+[2025.08.29-11.33.52:854][284]LogWorld: Bringing World /Game/SideScrollerBP/Maps/UEDPIE_0_level1.level1 up for play (max tick rate 60) at 2025.08.29-14.33.52
+[2025.08.29-11.33.52:857][284]LogWorld: Bringing up level for play took: 0.043080
+[2025.08.29-11.33.52:859][284]LogNavigation: Warning: Recreating dtNavMesh instance due to saved navmesh origin (X=0.000 Y=11.607 Z=51.944, usually the RecastNavMesh location) not being aligned with tile size (1025 uu) 
+[2025.08.29-11.33.52:872][284]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2025.08.29-11.33.52:875][284]LogLoad: Took 0.188646 seconds to LoadMap(/Game/SideScrollerBP/Maps/UEDPIE_0_level1)
+[2025.08.29-11.33.55:341][425]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.08.29-11.33.55:342][425]LogWorld: BeginTearingDown for /Game/SideScrollerBP/Maps/UEDPIE_0_level1
+[2025.08.29-11.33.55:343][425]LogWorld: UWorld::CleanupWorld for level1, bSessionEnded=true, bCleanupResources=true
+[2025.08.29-11.33.55:347][425]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.08.29-11.33.55:361][425]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.08.29-11.33.55:369][425]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.08.29-11.33.55:410][425]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.08.29-11.33.55:410][425]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2025.08.29-11.33.55:412][425]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2025.08.29-11.33.55:416][425]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.08.29-11.33.55:425][425]LogUObjectHash: Compacting FUObjectHashTables data took   5.39ms
+[2025.08.29-11.33.55:454][426]LogPlayLevel: Display: Destroying online subsystem :Context_61
+[2025.08.29-11.33.55:930][449]LogUObjectHash: Compacting FUObjectHashTables data took   5.26ms
+[2025.08.29-11.33.55:938][449]LogSavePackage: Moving '../../../../../../Users/Melih/Documents/GitHub/MyProject/platkasoyun/Saved/MainMenuLevelB4E46853407133A236A498ABD3525878.tmp' to '../../../../../../Users/Melih/Documents/GitHub/MyProject/platkasoyun/Content/SideScrollerBP/Maps/MainMenuLevel.umap'
+[2025.08.29-11.33.55:979][449]AssetCheck: New page: Asset Save: MainMenuLevel
+[2025.08.29-11.33.55:979][449]LogContentValidation: Display: Validating World /Game/SideScrollerBP/Maps/MainMenuLevel.MainMenuLevel
